@@ -3,10 +3,10 @@
   "name": "WK2 SKP @ RMS",
   "type": "manual",
   "week": "2",
-  "round": 1,
+  "round": 4,
   "create_at": 1631988457233,
   "date": "09/20/2021",
-  "state": "pregame",
+  "state": "forfeit",
   "venue": {
     "key": "RAY",
     "name": "Raygun Lounge",
@@ -39,11 +39,18 @@
     ],
     "lineup": [
       {
-        "key": "9118417cc92099f69c27a5f4520ee878c4391645",
-        "name": "Timm Shere",
+        "key": "922063450a473896a1a279ec7910a995b8c98d28",
+        "name": "Aaron Shervin",
         "sub": false,
         "num_played": 0,
         "IPR": 4
+      },
+      {
+        "key": "38c5865683f3e9d5658af5819053e6c04c2a4fb7",
+        "name": "Erik McClintock ",
+        "sub": false,
+        "num_played": 0,
+        "IPR": 1
       },
       {
         "key": "dd9737477894a5f946dd545cbc59a00dc17e43cd",
@@ -74,6 +81,13 @@
         "IPR": 1
       },
       {
+        "key": "1320a51dd1fcd49837d2e048fa702d892e563b93",
+        "name": "Max Davidoff",
+        "sub": false,
+        "num_played": 0,
+        "IPR": 5
+      },
+      {
         "key": "ad017202dcdd267369c76b22b049ae5f7843f5e3",
         "name": "Nick Gibson",
         "sub": false,
@@ -88,27 +102,18 @@
         "IPR": 4
       },
       {
-        "key": "1320a51dd1fcd49837d2e048fa702d892e563b93",
-        "name": "Max Davidoff",
-        "sub": false,
-        "num_played": 0,
-        "IPR": 5
-      },
-      {
-        "key": "922063450a473896a1a279ec7910a995b8c98d28",
-        "name": "Aaron Shervin",
+        "key": "9118417cc92099f69c27a5f4520ee878c4391645",
+        "name": "Timm Shere",
         "sub": false,
         "num_played": 0,
         "IPR": 4
-      },
-      {
-        "key": "38c5865683f3e9d5658af5819053e6c04c2a4fb7",
-        "name": "Erik McClintock ",
-        "sub": false,
-        "num_played": 0,
-        "IPR": 1
       }
-    ]
+    ],
+    "ready": true,
+    "confirmed": {
+      "by": "6143",
+      "at": 1632367206912
+    }
   },
   "home": {
     "name": "Magic Saves",
@@ -132,6 +137,13 @@
         "IPR": 3
       },
       {
+        "key": "1310b61afc040d2e03f5669c6a0ebdd72c56c439",
+        "name": "Andy Meuser",
+        "sub": false,
+        "num_played": 0,
+        "IPR": 1
+      },
+      {
         "key": "0885d316f4c017359859daafb905df891d485fe8",
         "name": "Jake Beckerman",
         "sub": false,
@@ -141,13 +153,6 @@
       {
         "key": "b2b610550300bdc57f39e72ca66d0a6d8a6c9168",
         "name": "Josh Schaffner",
-        "sub": false,
-        "num_played": 0,
-        "IPR": 1
-      },
-      {
-        "key": "1310b61afc040d2e03f5669c6a0ebdd72c56c439",
-        "name": "Andy Meuser",
         "sub": false,
         "num_played": 0,
         "IPR": 1
@@ -194,94 +199,147 @@
         "num_played": 0,
         "IPR": 2
       }
-    ]
+    ],
+    "ready": true,
+    "confirmed": {
+      "by": "6143",
+      "at": 1632367208118
+    }
   },
   "rounds": [
     {
       "n": 1,
       "games": [
         {
-          "n": 1
+          "n": 1,
+          "away_points": 2,
+          "home_points": 0
         },
         {
-          "n": 2
+          "n": 2,
+          "away_points": 2,
+          "home_points": 0
         },
         {
-          "n": 3
+          "n": 3,
+          "away_points": 2,
+          "home_points": 0
         },
         {
-          "n": 4
+          "n": 4,
+          "away_points": 10,
+          "home_points": 0
         }
-      ]
+      ],
+      "done": true
     },
     {
       "n": 2,
       "games": [
         {
-          "n": 1
+          "n": 1,
+          "away_points": 2,
+          "home_points": 0
         },
         {
-          "n": 2
+          "n": 2,
+          "away_points": 2,
+          "home_points": 0
         },
         {
-          "n": 3
+          "n": 3,
+          "away_points": 2,
+          "home_points": 0
         },
         {
-          "n": 4
+          "n": 4,
+          "away_points": 2,
+          "home_points": 0
         },
         {
-          "n": 5
+          "n": 5,
+          "away_points": 2,
+          "home_points": 0
         },
         {
-          "n": 6
+          "n": 6,
+          "away_points": 2,
+          "home_points": 0
         },
         {
-          "n": 7
+          "n": 7,
+          "away_points": 2,
+          "home_points": 0
         }
-      ]
+      ],
+      "done": true
     },
     {
       "n": 3,
       "games": [
         {
-          "n": 1
+          "n": 1,
+          "away_points": 2,
+          "home_points": 0
         },
         {
-          "n": 2
+          "n": 2,
+          "away_points": 2,
+          "home_points": 0
         },
         {
-          "n": 3
+          "n": 3,
+          "away_points": 2,
+          "home_points": 0
         },
         {
-          "n": 4
+          "n": 4,
+          "away_points": 2,
+          "home_points": 0
         },
         {
-          "n": 5
+          "n": 5,
+          "away_points": 2,
+          "home_points": 0
         },
         {
-          "n": 6
+          "n": 6,
+          "away_points": 2,
+          "home_points": 0
         },
         {
-          "n": 7
+          "n": 7,
+          "away_points": 2,
+          "home_points": 0
         }
-      ]
+      ],
+      "done": true
     },
     {
       "n": 4,
       "games": [
         {
-          "n": 1
+          "n": 1,
+          "away_points": 2,
+          "home_points": 0
         },
         {
-          "n": 2
+          "n": 2,
+          "away_points": 2,
+          "home_points": 0
         },
         {
-          "n": 3
+          "n": 3,
+          "away_points": 3,
+          "home_points": 0
         },
         {
-          "n": 4
+          "n": 4,
+          "away_points": 10,
+          "home_points": 0
         }
-      ]
+      ],
+      "done": true
     }
   ],
   "players": []
