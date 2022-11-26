@@ -137,6 +137,16 @@
             "key": "CFB",
             "name": "Chill Flippin Ballers"
           }
+        },
+        {
+          "match_key": "mnp-16-11-PGN-DSV",
+          "week": "11",
+          "date": "20221128",
+          "side": "@",
+          "opp": {
+            "key": "DSV",
+            "name": "Death Savers"
+          }
         }
       ],
       "division": 0,
@@ -279,6 +289,16 @@
             "key": "DTP",
             "name": "DTP"
           }
+        },
+        {
+          "match_key": "mnp-16-11-ADB-SWL",
+          "week": "11",
+          "date": "20221128",
+          "side": "vs",
+          "opp": {
+            "key": "ADB",
+            "name": "Admiraballs"
+          }
         }
       ],
       "division": 0,
@@ -287,7 +307,7 @@
     },
     "KNR": {
       "key": "KNR",
-      "venue": "GPA",
+      "venue": "COP",
       "name": "Knight Riders",
       "roster": [
         {
@@ -420,6 +440,16 @@
           "opp": {
             "key": "ADB",
             "name": "Admiraballs"
+          }
+        },
+        {
+          "match_key": "mnp-16-11-DTP-KNR",
+          "week": "11",
+          "date": "20221128",
+          "side": "vs",
+          "opp": {
+            "key": "DTP",
+            "name": "DTP"
           }
         }
       ],
@@ -562,6 +592,16 @@
           "opp": {
             "key": "SKP",
             "name": "Slap Kraken Pop"
+          }
+        },
+        {
+          "match_key": "mnp-16-11-PGN-DSV",
+          "week": "11",
+          "date": "20221128",
+          "side": "vs",
+          "opp": {
+            "key": "PGN",
+            "name": "Pinguins"
           }
         }
       ],
@@ -846,6 +886,16 @@
           "opp": {
             "key": "KNR",
             "name": "Knight Riders"
+          }
+        },
+        {
+          "match_key": "mnp-16-11-ADB-SWL",
+          "week": "11",
+          "date": "20221128",
+          "side": "@",
+          "opp": {
+            "key": "SWL",
+            "name": "Specials When Lit"
           }
         }
       ],
@@ -1557,6 +1607,16 @@
             "key": "BOC",
             "name": "Ball of Cthulhu"
           }
+        },
+        {
+          "match_key": "mnp-16-11-PKT-TWC",
+          "week": "11",
+          "date": "20221128",
+          "side": "@",
+          "opp": {
+            "key": "TWC",
+            "name": "The Wrecking Crew"
+          }
         }
       ],
       "division": 0,
@@ -2267,6 +2327,16 @@
             "key": "SWL",
             "name": "Specials When Lit"
           }
+        },
+        {
+          "match_key": "mnp-16-11-DTP-KNR",
+          "week": "11",
+          "date": "20221128",
+          "side": "@",
+          "opp": {
+            "key": "KNR",
+            "name": "Knight Riders"
+          }
         }
       ],
       "division": 0,
@@ -2547,6 +2617,16 @@
           "opp": {
             "key": "PKT",
             "name": "Pocketeers"
+          }
+        },
+        {
+          "match_key": "mnp-16-11-SSS-BOC",
+          "week": "11",
+          "date": "20221128",
+          "side": "vs",
+          "opp": {
+            "key": "SSS",
+            "name": "Silverball Slayers"
           }
         }
       ],
@@ -3258,6 +3338,16 @@
             "key": "HHS",
             "name": "Hellhounds"
           }
+        },
+        {
+          "match_key": "mnp-16-11-SSS-BOC",
+          "week": "11",
+          "date": "20221128",
+          "side": "@",
+          "opp": {
+            "key": "BOC",
+            "name": "Ball of Cthulhu"
+          }
         }
       ],
       "division": 0,
@@ -3541,6 +3631,16 @@
           "opp": {
             "key": "NLT",
             "name": "Northern Lights"
+          }
+        },
+        {
+          "match_key": "mnp-16-11-PKT-TWC",
+          "week": "11",
+          "date": "20221128",
+          "side": "vs",
+          "opp": {
+            "key": "PKT",
+            "name": "Pocketeers"
           }
         }
       ],
@@ -5878,6 +5978,80 @@
           "away_linked": true,
           "home_key": "KNR",
           "home_name": "Knight Riders",
+          "home_linked": true,
+          "venue": {
+            "key": "GPA",
+            "name": "Georgetown Pizza and Arcade"
+          }
+        }
+      ]
+    },
+    {
+      "n": "11",
+      "label": "WEEK 11",
+      "code": "WK11",
+      "isPlayoffs": true,
+      "date": "11/28/2022",
+      "matches": [
+        {
+          "match_key": "mnp-16-11-PGN-DSV",
+          "away_key": "PGN",
+          "away_name": "Pinguins",
+          "away_linked": true,
+          "home_key": "DSV",
+          "home_name": "Death Savers",
+          "home_linked": true,
+          "venue": {
+            "key": "AAB",
+            "name": "Add-a-Ball"
+          }
+        },
+        {
+          "match_key": "mnp-16-11-DTP-KNR",
+          "away_key": "DTP",
+          "away_name": "DTP",
+          "away_linked": true,
+          "home_key": "KNR",
+          "home_name": "Knight Riders",
+          "home_linked": true,
+          "venue": {
+            "key": "GPA",
+            "name": "Georgetown Pizza and Arcade"
+          }
+        },
+        {
+          "match_key": "mnp-16-11-SSS-BOC",
+          "away_key": "SSS",
+          "away_name": "Silverball Slayers",
+          "away_linked": true,
+          "home_key": "BOC",
+          "home_name": "Ball of Cthulhu",
+          "home_linked": true,
+          "venue": {
+            "key": "KRA",
+            "name": "Kraken"
+          }
+        },
+        {
+          "match_key": "mnp-16-11-ADB-SWL",
+          "away_key": "ADB",
+          "away_name": "Admiraballs",
+          "away_linked": true,
+          "home_key": "SWL",
+          "home_name": "Specials When Lit",
+          "home_linked": true,
+          "venue": {
+            "key": "8BT",
+            "name": "8-bit Arcade Bar"
+          }
+        },
+        {
+          "match_key": "mnp-16-11-PKT-TWC",
+          "away_key": "PKT",
+          "away_name": "Pocketeers",
+          "away_linked": true,
+          "home_key": "TWC",
+          "home_name": "The Wrecking Crew",
           "home_linked": true,
           "venue": {
             "key": "GPA",
