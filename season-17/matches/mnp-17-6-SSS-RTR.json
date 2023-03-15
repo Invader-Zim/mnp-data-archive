@@ -3,25 +3,25 @@
   "name": "WK6 SSS @ RTR",
   "type": "manual",
   "week": "6",
-  "round": 1,
+  "round": 4,
   "create_at": 1678593998426,
   "date": "03/13/2023",
-  "state": "pregame",
+  "state": "complete",
   "venue": {
     "key": "HND",
     "name": "Hounds Tooth",
     "machines": [
-      "CA",
-      "Hot Wheels",
-      "Mandalorian",
-      "DH",
-      "Cactus Canyon Remake",
-      "PistolPoker",
-      "IronMaiden",
-      "ChampPub",
-      "SternPark",
+      "DP",
       "Aerosmith",
-      "DP"
+      "SternPark",
+      "ChampPub",
+      "IronMaiden",
+      "PistolPoker",
+      "Cactus Canyon Remake",
+      "DH",
+      "Mandalorian",
+      "Hot Wheels",
+      "CA"
     ]
   },
   "away": {
@@ -39,69 +39,81 @@
     ],
     "lineup": [
       {
+        "key": "e3c90eb811ab9add9b2b570fcbcaf78498f202ed",
+        "name": "Andrew Nunes",
+        "sub": true,
+        "IPR": 4,
+        "num_played": 3
+      },
+      {
         "key": "5f8224cb8440f99b5b8e7f607ea2b66a1a22c1a6",
         "name": "Brad Hayden",
         "sub": false,
-        "num_played": 0,
+        "num_played": 3,
         "IPR": 2
       },
       {
         "key": "e5a52346bff82cf04b590cd4bf4d56d7bf50be12",
         "name": "Brian Chesbrough",
         "sub": false,
-        "num_played": 0,
+        "num_played": 3,
         "IPR": 4
       },
       {
         "key": "0bf87f57596d810c439e89ec79bd512b5c8144bd",
         "name": "Corey Klier",
         "sub": false,
-        "num_played": 0,
+        "num_played": 3,
         "IPR": 1
       },
       {
         "key": "6826b7821a11aa80297da5ff464b340d78bf440d",
         "name": "Graham Klym",
         "sub": false,
-        "num_played": 0,
+        "num_played": 3,
         "IPR": 2
+      },
+      {
+        "key": "bbb806658f9c1e4c72d53d03b5acdeb77e3e7350",
+        "name": "Hannah Hatch",
+        "sub": false,
+        "num_played": 3,
+        "IPR": 4
       },
       {
         "key": "2209f79cba4fd0d15ffd0895076093a6218d49a3",
         "name": "Heather Loudon",
         "sub": false,
-        "num_played": 0,
+        "num_played": 3,
         "IPR": 4
       },
       {
         "key": "90c5bc282adefdf513101a651c9e1b88d84cdfc0",
         "name": "Matt Slater",
         "sub": false,
-        "num_played": 0,
+        "num_played": 3,
         "IPR": 2
       },
       {
         "key": "3bbe7e66d2088081c6cba3124fa8730d3df8d293",
         "name": "Vanessa Ish",
         "sub": false,
-        "num_played": 0,
+        "num_played": 3,
         "IPR": 5
-      },
-      {
-        "key": "bbb806658f9c1e4c72d53d03b5acdeb77e3e7350",
-        "name": "Hannah Hatch",
-        "sub": false,
-        "num_played": 0,
-        "IPR": 4
       },
       {
         "key": "4bcb9035f1fed3ba72933a7734c251a10a816362",
         "name": "Vincent Sperrazza",
         "sub": false,
-        "num_played": 0,
+        "num_played": 3,
         "IPR": 6
       }
-    ]
+    ],
+    "ready": true,
+    "confirmed": {
+      "by": "Andy Yarritu",
+      "at": 1678763658955
+    }
   },
   "home": {
     "name": "Ramp Tramps",
@@ -118,163 +130,650 @@
     ],
     "lineup": [
       {
+        "key": "e5bc9d0e80f73635b59e42c2fa8ae2fd90ec0a4d",
+        "name": "Andrew Cole WA",
+        "sub": false,
+        "num_played": 3,
+        "IPR": 1
+      },
+      {
         "key": "7667cb7b78d118b72f26d5b2459bfa875b84e88e",
         "name": "Andy Yarritu",
         "sub": false,
-        "num_played": 0,
+        "num_played": 3,
         "IPR": 3
+      },
+      {
+        "key": "f74f0e9c1dfcd5b2a37e2b77a6eba91e691d7eae",
+        "name": "Brian Kirk",
+        "sub": false,
+        "num_played": 3,
+        "IPR": 1
       },
       {
         "key": "0fe09712e877bf6f63c762ef063c735fffa28a2f",
         "name": "Brian O'Neill WA",
         "sub": false,
-        "num_played": 0,
+        "num_played": 3,
         "IPR": 1
-      },
-      {
-        "key": "c543633ea63045411ecebe25a7d0e29c58a7b29b",
-        "name": "Emily Beirne",
-        "sub": false,
-        "num_played": 0,
-        "IPR": 2
       },
       {
         "key": "44cc5819585205fe12c43d664ed4d3568ff22d59",
         "name": "Brooke Borcherding",
         "sub": false,
-        "num_played": 0,
+        "num_played": 3,
         "IPR": 4
       },
       {
         "key": "691d6eb9cb3c2ebbd73439ff9a18eae44f9559df",
         "name": "Chelsea Rakonza",
         "sub": false,
-        "num_played": 0,
+        "num_played": 3,
         "IPR": 2
       },
       {
         "key": "a707d53ba74b73e274f29838d21b9b5172ac0d8a",
         "name": "Isaac Kaplan-Woolner",
         "sub": false,
-        "num_played": 0,
+        "num_played": 3,
         "IPR": 2
       },
       {
-        "key": "e5bc9d0e80f73635b59e42c2fa8ae2fd90ec0a4d",
-        "name": "Andrew Cole WA",
+        "key": "3e6383f60dd7a67d3beba63207fc2fb606ab61ad",
+        "name": "Jason Boekeloo",
         "sub": false,
-        "num_played": 0,
+        "num_played": 3,
         "IPR": 1
       },
       {
         "key": "5ae9116cce4386a478f945316dadc934c87191a9",
         "name": "Maureen Hendrix",
         "sub": false,
-        "num_played": 0,
+        "num_played": 3,
         "IPR": 4
       },
       {
-        "key": "f74f0e9c1dfcd5b2a37e2b77a6eba91e691d7eae",
-        "name": "Brian Kirk",
-        "sub": false,
-        "num_played": 0,
-        "IPR": 1
-      },
-      {
-        "key": "3e6383f60dd7a67d3beba63207fc2fb606ab61ad",
-        "name": "Jason Boekeloo",
-        "sub": false,
-        "num_played": 0,
-        "IPR": 1
+        "key": "2cdd7f1cb04d91a8bfb299177901e212745fe5a8",
+        "name": "William Key",
+        "sub": true,
+        "IPR": 0,
+        "num_played": 3
       }
-    ]
+    ],
+    "ready": true,
+    "confirmed": {
+      "by": "Heather Loudon",
+      "at": 1678763605561
+    }
   },
   "rounds": [
     {
       "n": 1,
       "games": [
         {
-          "n": 1
+          "n": 1,
+          "machine": "ChampPub",
+          "player_1": "e3c90eb811ab9add9b2b570fcbcaf78498f202ed",
+          "player_3": "3bbe7e66d2088081c6cba3124fa8730d3df8d293",
+          "player_2": "691d6eb9cb3c2ebbd73439ff9a18eae44f9559df",
+          "player_4": "44cc5819585205fe12c43d664ed4d3568ff22d59",
+          "done": true,
+          "photos": [
+            {
+              "uploaded_by": "691d6eb9cb3c2ebbd73439ff9a18eae44f9559df",
+              "url": "/pics/8cce1144aa2cb98b1f3825bf6de6a736eecc8255",
+              "rot": 0,
+              "scale": 5.571562394975795,
+              "dx": -106,
+              "dy": -887
+            }
+          ],
+          "score_1": 71748920,
+          "score_2": 6947960,
+          "score_3": 25890860,
+          "score_4": 2006140,
+          "points_1": 2.5,
+          "points_2": 0,
+          "points_3": 2.5,
+          "points_4": 0,
+          "score_13": 97639780,
+          "score_24": 8954100,
+          "points_13": 5,
+          "points_24": 0,
+          "away_points": 5,
+          "home_points": 0
         },
         {
-          "n": 2
+          "n": 2,
+          "machine": "CA",
+          "player_1": "e5a52346bff82cf04b590cd4bf4d56d7bf50be12",
+          "player_3": "0bf87f57596d810c439e89ec79bd512b5c8144bd",
+          "player_2": "0fe09712e877bf6f63c762ef063c735fffa28a2f",
+          "player_4": "f74f0e9c1dfcd5b2a37e2b77a6eba91e691d7eae",
+          "done": true,
+          "score_1": 392180,
+          "score_2": 308970,
+          "score_3": 187740,
+          "score_4": 88180,
+          "points_1": 2.5,
+          "points_2": 1,
+          "points_3": 1.5,
+          "points_4": 0,
+          "score_13": 579920,
+          "score_24": 397150,
+          "points_13": 4,
+          "points_24": 1,
+          "away_points": 4,
+          "home_points": 1
         },
         {
-          "n": 3
+          "n": 3,
+          "machine": "Cactus Canyon Remake",
+          "player_1": "6826b7821a11aa80297da5ff464b340d78bf440d",
+          "player_3": "2209f79cba4fd0d15ffd0895076093a6218d49a3",
+          "player_2": "7667cb7b78d118b72f26d5b2459bfa875b84e88e",
+          "player_4": "a707d53ba74b73e274f29838d21b9b5172ac0d8a",
+          "score_1": 19269910,
+          "score_2": 6899090,
+          "score_3": 9861260,
+          "score_4": 5815810,
+          "done": true,
+          "points_1": 2.5,
+          "points_2": 0,
+          "points_3": 2.5,
+          "points_4": 0,
+          "score_13": 29131170,
+          "score_24": 12714900,
+          "points_13": 5,
+          "points_24": 0,
+          "away_points": 5,
+          "home_points": 0
         },
         {
-          "n": 4
+          "n": 4,
+          "machine": "DP",
+          "player_1": "90c5bc282adefdf513101a651c9e1b88d84cdfc0",
+          "player_3": "4bcb9035f1fed3ba72933a7734c251a10a816362",
+          "player_2": "3e6383f60dd7a67d3beba63207fc2fb606ab61ad",
+          "player_4": "e5bc9d0e80f73635b59e42c2fa8ae2fd90ec0a4d",
+          "done": true,
+          "score_1": 32835990,
+          "score_2": 71640190,
+          "score_3": 266036660,
+          "score_4": 15115920,
+          "points_1": 1.5,
+          "points_2": 1,
+          "points_3": 2.5,
+          "points_4": 0,
+          "score_13": 298872650,
+          "score_24": 86756110,
+          "points_13": 4,
+          "points_24": 1,
+          "away_points": 4,
+          "home_points": 1
         }
-      ]
+      ],
+      "done": true,
+      "right_confirmed": {
+        "by": "Andy Yarritu",
+        "at": 1678766850235
+      },
+      "left_confirmed": {
+        "by": "Heather Loudon",
+        "at": 1678766885724
+      }
     },
     {
       "n": 2,
       "games": [
         {
-          "n": 1
+          "n": 1,
+          "machine": "Hot Wheels",
+          "player_1": "2cdd7f1cb04d91a8bfb299177901e212745fe5a8",
+          "player_2": "e3c90eb811ab9add9b2b570fcbcaf78498f202ed",
+          "done": true,
+          "score_1": 33372600,
+          "score_2": 43976700,
+          "points_1": 1,
+          "points_2": 2,
+          "points_13": 1,
+          "points_24": 2,
+          "score_13": 33372600,
+          "score_24": 43976700,
+          "away_points": 2,
+          "home_points": 1
         },
         {
-          "n": 2
+          "n": 2,
+          "machine": "CA",
+          "player_1": "5ae9116cce4386a478f945316dadc934c87191a9",
+          "player_2": "5f8224cb8440f99b5b8e7f607ea2b66a1a22c1a6",
+          "done": true,
+          "photos": [
+            {
+              "uploaded_by": "5ae9116cce4386a478f945316dadc934c87191a9",
+              "url": "/pics/f537281cf9bcf714b723a3fcb09a055cff71395a",
+              "rot": 0,
+              "scale": 2.063562708909545,
+              "dx": 17,
+              "dy": -376
+            }
+          ],
+          "score_1": 456510,
+          "score_2": 139910,
+          "points_1": 3,
+          "points_2": 0,
+          "points_13": 3,
+          "points_24": 0,
+          "score_13": 456510,
+          "score_24": 139910,
+          "away_points": 0,
+          "home_points": 3
         },
         {
-          "n": 3
+          "n": 3,
+          "machine": "PistolPoker",
+          "player_1": "a707d53ba74b73e274f29838d21b9b5172ac0d8a",
+          "player_2": "2209f79cba4fd0d15ffd0895076093a6218d49a3",
+          "done": true,
+          "score_1": 17209360,
+          "score_2": 11467030,
+          "points_1": 2,
+          "points_2": 1,
+          "points_13": 2,
+          "points_24": 1,
+          "score_13": 17209360,
+          "score_24": 11467030,
+          "away_points": 1,
+          "home_points": 2
         },
         {
-          "n": 4
+          "n": 4,
+          "machine": "Aerosmith",
+          "player_1": "44cc5819585205fe12c43d664ed4d3568ff22d59",
+          "player_2": "e5a52346bff82cf04b590cd4bf4d56d7bf50be12",
+          "done": true,
+          "score_1": 23369540,
+          "score_2": 61408470,
+          "points_1": 0,
+          "points_2": 3,
+          "points_13": 0,
+          "points_24": 3,
+          "score_13": 23369540,
+          "score_24": 61408470,
+          "away_points": 3,
+          "home_points": 0
         },
         {
-          "n": 5
+          "n": 5,
+          "machine": "SternPark",
+          "player_1": "691d6eb9cb3c2ebbd73439ff9a18eae44f9559df",
+          "player_2": "4bcb9035f1fed3ba72933a7734c251a10a816362",
+          "done": true,
+          "photos": [
+            {
+              "uploaded_by": "691d6eb9cb3c2ebbd73439ff9a18eae44f9559df",
+              "url": "/pics/05fd600e64e574fd3f317c721afe0279cf33fd30",
+              "rot": 0,
+              "scale": 5.010921645157039,
+              "dx": -123,
+              "dy": -876
+            }
+          ],
+          "score_1": 44863380,
+          "score_2": 81127530,
+          "points_1": 1,
+          "points_2": 2,
+          "points_13": 1,
+          "points_24": 2,
+          "score_13": 44863380,
+          "score_24": 81127530,
+          "away_points": 2,
+          "home_points": 1
         },
         {
-          "n": 6
+          "n": 6,
+          "machine": "IronMaiden",
+          "player_1": "e5bc9d0e80f73635b59e42c2fa8ae2fd90ec0a4d",
+          "player_2": "bbb806658f9c1e4c72d53d03b5acdeb77e3e7350",
+          "done": true,
+          "score_1": 18124260,
+          "score_2": 45841940,
+          "points_1": 0,
+          "points_2": 3,
+          "points_13": 0,
+          "points_24": 3,
+          "score_13": 18124260,
+          "score_24": 45841940,
+          "away_points": 3,
+          "home_points": 0
         },
         {
-          "n": 7
+          "n": 7,
+          "machine": "Cactus Canyon Remake",
+          "player_1": "0fe09712e877bf6f63c762ef063c735fffa28a2f",
+          "player_2": "0bf87f57596d810c439e89ec79bd512b5c8144bd",
+          "photos": [
+            {
+              "uploaded_by": "0fe09712e877bf6f63c762ef063c735fffa28a2f",
+              "url": "/pics/15248aead92f42b569b9b608834f0f89394da3fe",
+              "rot": 0,
+              "scale": 2.9468072676719412,
+              "dx": -68,
+              "dy": -407
+            }
+          ],
+          "score_1": 4504260,
+          "score_2": 3146610,
+          "done": true,
+          "points_1": 2,
+          "points_2": 1,
+          "points_13": 2,
+          "points_24": 1,
+          "score_13": 4504260,
+          "score_24": 3146610,
+          "away_points": 1,
+          "home_points": 2
         }
-      ]
+      ],
+      "done": true,
+      "left_confirmed": {
+        "by": "Chelsea Rakonza",
+        "at": 1678768448283
+      },
+      "right_confirmed": {
+        "by": "Brian Chesbrough",
+        "at": 1678768561106
+      }
     },
     {
       "n": 3,
       "games": [
         {
-          "n": 1
+          "n": 1,
+          "done": true,
+          "machine": "IronMaiden",
+          "player_1": "bbb806658f9c1e4c72d53d03b5acdeb77e3e7350",
+          "player_2": "3e6383f60dd7a67d3beba63207fc2fb606ab61ad",
+          "score_1": 143767940,
+          "score_2": 39527490,
+          "points_1": 3,
+          "points_2": 0,
+          "points_13": 3,
+          "points_24": 0,
+          "score_13": 143767940,
+          "score_24": 39527490,
+          "away_points": 3,
+          "home_points": 0
         },
         {
-          "n": 2
+          "n": 2,
+          "done": true,
+          "machine": "ChampPub",
+          "player_1": "e3c90eb811ab9add9b2b570fcbcaf78498f202ed",
+          "player_2": "0fe09712e877bf6f63c762ef063c735fffa28a2f",
+          "photos": [
+            {
+              "uploaded_by": "0fe09712e877bf6f63c762ef063c735fffa28a2f",
+              "url": "/pics/d3816282e67475994182e7ad8ecdce78ebe72b3f",
+              "rot": 0,
+              "scale": 1.6449446531349907,
+              "dx": 51,
+              "dy": -147
+            }
+          ],
+          "score_1": 43464790,
+          "score_2": 1788730,
+          "points_1": 3,
+          "points_2": 0,
+          "points_13": 3,
+          "points_24": 0,
+          "score_13": 43464790,
+          "score_24": 1788730,
+          "away_points": 3,
+          "home_points": 0
         },
         {
-          "n": 3
+          "n": 3,
+          "done": true,
+          "machine": "CA",
+          "player_1": "3bbe7e66d2088081c6cba3124fa8730d3df8d293",
+          "player_2": "5ae9116cce4386a478f945316dadc934c87191a9",
+          "score_1": 413920,
+          "score_2": 273270,
+          "points_1": 2,
+          "points_2": 1,
+          "points_13": 2,
+          "points_24": 1,
+          "score_13": 413920,
+          "score_24": 273270,
+          "away_points": 2,
+          "home_points": 1
         },
         {
-          "n": 4
+          "n": 4,
+          "done": true,
+          "machine": "Mandalorian",
+          "player_1": "90c5bc282adefdf513101a651c9e1b88d84cdfc0",
+          "player_2": "7667cb7b78d118b72f26d5b2459bfa875b84e88e",
+          "photos": [
+            {
+              "uploaded_by": "7667cb7b78d118b72f26d5b2459bfa875b84e88e",
+              "url": "/pics/d083255b08b278fca0b7ab8e9bca06a9949d37e2",
+              "rot": 0,
+              "scale": 2.025381487334686,
+              "dx": -185,
+              "dy": -97
+            }
+          ],
+          "score_1": 95815250,
+          "score_2": 83185920,
+          "points_1": 2,
+          "points_2": 1,
+          "points_13": 2,
+          "points_24": 1,
+          "score_13": 95815250,
+          "score_24": 83185920,
+          "away_points": 2,
+          "home_points": 1
         },
         {
-          "n": 5
+          "n": 5,
+          "done": true,
+          "machine": "PistolPoker",
+          "player_1": "6826b7821a11aa80297da5ff464b340d78bf440d",
+          "player_2": "44cc5819585205fe12c43d664ed4d3568ff22d59",
+          "score_1": 41882030,
+          "score_2": 21143420,
+          "points_1": 2,
+          "points_2": 1,
+          "points_13": 2,
+          "points_24": 1,
+          "score_13": 41882030,
+          "score_24": 21143420,
+          "away_points": 2,
+          "home_points": 1
         },
         {
-          "n": 6
+          "n": 6,
+          "done": true,
+          "machine": "Aerosmith",
+          "player_1": "e5a52346bff82cf04b590cd4bf4d56d7bf50be12",
+          "player_2": "2cdd7f1cb04d91a8bfb299177901e212745fe5a8",
+          "score_1": 49520420,
+          "score_2": 6052540,
+          "points_1": 3,
+          "points_2": 0,
+          "points_13": 3,
+          "points_24": 0,
+          "score_13": 49520420,
+          "score_24": 6052540,
+          "away_points": 3,
+          "home_points": 0
         },
         {
-          "n": 7
+          "n": 7,
+          "done": true,
+          "machine": "Cactus Canyon Remake",
+          "player_1": "5f8224cb8440f99b5b8e7f607ea2b66a1a22c1a6",
+          "player_2": "f74f0e9c1dfcd5b2a37e2b77a6eba91e691d7eae",
+          "score_1": 7415610,
+          "score_2": 13014920,
+          "points_1": 1,
+          "points_2": 2,
+          "points_13": 1,
+          "points_24": 2,
+          "score_13": 7415610,
+          "score_24": 13014920,
+          "away_points": 1,
+          "home_points": 2
         }
-      ]
+      ],
+      "done": true,
+      "right_confirmed": {
+        "by": "Chelsea Rakonza",
+        "at": 1678770264201
+      },
+      "left_confirmed": {
+        "by": "Heather Loudon",
+        "at": 1678770363186
+      }
     },
     {
       "n": 4,
       "games": [
         {
-          "n": 1
+          "n": 1,
+          "machine": "Cactus Canyon Remake",
+          "player_1": "691d6eb9cb3c2ebbd73439ff9a18eae44f9559df",
+          "player_3": "a707d53ba74b73e274f29838d21b9b5172ac0d8a",
+          "player_2": "5f8224cb8440f99b5b8e7f607ea2b66a1a22c1a6",
+          "player_4": "0bf87f57596d810c439e89ec79bd512b5c8144bd",
+          "done": true,
+          "photos": [
+            {
+              "uploaded_by": "a707d53ba74b73e274f29838d21b9b5172ac0d8a",
+              "url": "/pics/0318b9cadd115c329dbc6c57cc8b964b49d7d444",
+              "rot": 0,
+              "scale": 2.1455654773476702,
+              "dx": 15,
+              "dy": -198
+            }
+          ],
+          "score_1": 18748200,
+          "score_2": 2071100,
+          "score_3": 15310590,
+          "score_4": 7819810,
+          "points_1": 2.5,
+          "points_2": 0,
+          "points_3": 2.5,
+          "points_4": 0,
+          "score_13": 34058790,
+          "score_24": 9890910,
+          "points_13": 5,
+          "points_24": 0,
+          "away_points": 0,
+          "home_points": 5
         },
         {
-          "n": 2
+          "n": 2,
+          "machine": "Hot Wheels",
+          "player_1": "e5bc9d0e80f73635b59e42c2fa8ae2fd90ec0a4d",
+          "player_3": "2cdd7f1cb04d91a8bfb299177901e212745fe5a8",
+          "player_2": "3bbe7e66d2088081c6cba3124fa8730d3df8d293",
+          "player_4": "4bcb9035f1fed3ba72933a7734c251a10a816362",
+          "done": true,
+          "score_1": 143508570,
+          "score_2": 323060060,
+          "score_3": 20132470,
+          "score_4": 440748566,
+          "points_1": 0,
+          "points_2": 2.5,
+          "points_3": 0,
+          "points_4": 2.5,
+          "score_13": 163641040,
+          "score_24": 763808626,
+          "points_13": 0,
+          "points_24": 5,
+          "away_points": 5,
+          "home_points": 0,
+          "photos": [
+            {
+              "uploaded_by": "e5bc9d0e80f73635b59e42c2fa8ae2fd90ec0a4d",
+              "url": "/pics/ab17623ed038864baba6f1d30afee2e7d9ae3749",
+              "rot": 0,
+              "scale": 1,
+              "dx": 7,
+              "dy": -75
+            }
+          ]
         },
         {
-          "n": 3
+          "n": 3,
+          "machine": "SternPark",
+          "player_1": "3e6383f60dd7a67d3beba63207fc2fb606ab61ad",
+          "player_3": "f74f0e9c1dfcd5b2a37e2b77a6eba91e691d7eae",
+          "player_2": "bbb806658f9c1e4c72d53d03b5acdeb77e3e7350",
+          "player_4": "2209f79cba4fd0d15ffd0895076093a6218d49a3",
+          "done": true,
+          "score_1": 18782610,
+          "score_2": 132233100,
+          "score_3": 31918210,
+          "score_4": 52209430,
+          "points_1": 0,
+          "points_2": 2.5,
+          "points_3": 0,
+          "points_4": 2.5,
+          "score_13": 50700820,
+          "score_24": 184442530,
+          "points_13": 0,
+          "points_24": 5,
+          "away_points": 5,
+          "home_points": 0
         },
         {
-          "n": 4
+          "n": 4,
+          "machine": "DP",
+          "player_1": "7667cb7b78d118b72f26d5b2459bfa875b84e88e",
+          "player_3": "5ae9116cce4386a478f945316dadc934c87191a9",
+          "player_2": "90c5bc282adefdf513101a651c9e1b88d84cdfc0",
+          "player_4": "6826b7821a11aa80297da5ff464b340d78bf440d",
+          "photos": [
+            {
+              "uploaded_by": "5ae9116cce4386a478f945316dadc934c87191a9",
+              "url": "/pics/0a81e8c4e279b5a9db5d28c0bf3b21752cc0455f",
+              "rot": 0,
+              "scale": 3.7222023140358886,
+              "dx": -315,
+              "dy": -663
+            }
+          ],
+          "score_1": 68535950,
+          "score_2": 74802230,
+          "score_3": 11415260,
+          "score_4": 13910690,
+          "done": true,
+          "points_1": 1,
+          "points_2": 2.5,
+          "points_3": 0,
+          "points_4": 1.5,
+          "score_13": 79951210,
+          "score_24": 88712920,
+          "points_13": 1,
+          "points_24": 4,
+          "away_points": 4,
+          "home_points": 1
         }
-      ]
+      ],
+      "done": true,
+      "right_confirmed": {
+        "by": "Heather Loudon",
+        "at": 1678773235834
+      },
+      "left_confirmed": {
+        "by": "Chelsea Rakonza",
+        "at": 1678773311182
+      }
     }
   ],
   "players": []
