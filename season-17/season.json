@@ -664,6 +664,16 @@
           }
         },
         {
+          "match_key": "mnp-17-S-CRA-CPO",
+          "week": "S",
+          "date": "20230320",
+          "side": "vs",
+          "opp": {
+            "key": "CRA",
+            "name": "Castle Crashers"
+          }
+        },
+        {
           "match_key": "mnp-17-7-CPO-SSS",
           "week": "7",
           "date": "20230327",
@@ -803,6 +813,16 @@
           "opp": {
             "key": "CDC",
             "name": "Contras"
+          }
+        },
+        {
+          "match_key": "mnp-17-S-CRA-CPO",
+          "week": "S",
+          "date": "20230320",
+          "side": "@",
+          "opp": {
+            "key": "CPO",
+            "name": "Pants Optional"
           }
         },
         {
@@ -5471,6 +5491,27 @@
           "venue": {
             "key": "STN",
             "name": "Seattle Tavern and Pool Hall"
+          }
+        }
+      ]
+    },
+    {
+      "n": "S",
+      "code": "SCRM",
+      "isPlayoffs": false,
+      "date": "03/20/2023",
+      "matches": [
+        {
+          "match_key": "mnp-17-S-CRA-CPO",
+          "away_key": "CRA",
+          "away_name": "Castle Crashers",
+          "away_linked": true,
+          "home_key": "CPO",
+          "home_name": "Pants Optional",
+          "home_linked": true,
+          "venue": {
+            "key": "ANC",
+            "name": "Another Castle"
           }
         }
       ]
