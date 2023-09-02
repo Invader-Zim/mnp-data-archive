@@ -1314,6 +1314,16 @@
       ],
       "schedule": [
         {
+          "match_key": "mnp-18-S-PKT-FBP",
+          "week": "S",
+          "date": "20230904",
+          "side": "vs",
+          "opp": {
+            "key": "PKT",
+            "name": "Pocketeers"
+          }
+        },
+        {
           "match_key": "mnp-18-1-KNR-FBP",
           "week": "1",
           "date": "20230911",
@@ -3014,6 +3024,16 @@
         }
       ],
       "schedule": [
+        {
+          "match_key": "mnp-18-S-PKT-FBP",
+          "week": "S",
+          "date": "20230904",
+          "side": "@",
+          "opp": {
+            "key": "FBP",
+            "name": "Flippin Big Points"
+          }
+        },
         {
           "match_key": "mnp-18-1-HHS-PKT",
           "week": "1",
@@ -4816,6 +4836,28 @@
     }
   },
   "weeks": [
+    {
+      "n": "S",
+      "code": "SCRM",
+      "isPlayoffs": false,
+      "isSpecial": true,
+      "date": "09/04/2023",
+      "matches": [
+        {
+          "match_key": "mnp-18-S-PKT-FBP",
+          "away_key": "PKT",
+          "away_name": "Pocketeers",
+          "away_linked": true,
+          "home_key": "FBP",
+          "home_name": "Flippin Big Points",
+          "home_linked": true,
+          "venue": {
+            "key": "JUP",
+            "name": "Jupiter"
+          }
+        }
+      ]
+    },
     {
       "n": "1",
       "label": "WEEK 1",
