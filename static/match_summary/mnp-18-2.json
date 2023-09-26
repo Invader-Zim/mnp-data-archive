@@ -3717,13 +3717,16 @@
           "sub": false,
           "num_played": 3,
           "IPR": 2
+        },
+        {
+          "key": "7d1f8f911da92c0ea535cad461fd773281a79638",
+          "name": "Grey",
+          "sub": true,
+          "IPR": 0
         }
       ],
-      "ready": true,
-      "confirmed": {
-        "by": "Sam Snyder",
-        "at": 1695093354346
-      }
+      "ready": false,
+      "confirmed": false
     },
     "home": {
       "name": "The B Team",
@@ -4494,22 +4497,22 @@
     "round": 4,
     "create_at": 1694921633813,
     "date": "09/18/2023",
-    "state": "playing",
+    "state": "complete",
     "venue": {
       "key": "BSS",
       "name": "Ballard Smoke Shop",
       "machines": [
-        "IronMaiden",
-        "Ghost",
-        "MM",
-        "Guardians",
-        "TSPP",
-        "LOTR",
-        "TOM",
-        "SternPark",
-        "DP",
+        "Beatles",
         "BKSoR",
-        "Beatles"
+        "DP",
+        "SternPark",
+        "TOM",
+        "LOTR",
+        "TSPP",
+        "Guardians",
+        "MM",
+        "Ghost",
+        "IronMaiden"
       ]
     },
     "away": {
@@ -5267,6 +5270,10 @@
         "right_confirmed": {
           "by": "Nate Cantor",
           "at": 1695103249076
+        },
+        "left_confirmed": {
+          "by": "Paul White",
+          "at": 1695188505571
         }
       }
     ],
