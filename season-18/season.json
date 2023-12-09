@@ -927,8 +927,8 @@
         }
       ],
       "division": 0,
-      "co_captain": "Max Stewart",
-      "captain": "Zac Petersen"
+      "captain": "Zac Petersen",
+      "co_captain": "Max Stewart"
     },
     "DIH": {
       "key": "DIH",
@@ -2543,6 +2543,16 @@
             "key": "SWL",
             "name": "Specials When Lit"
           }
+        },
+        {
+          "match_key": "mnp-18-14-PBR-NMC",
+          "week": "14",
+          "date": "20231211",
+          "side": "vs",
+          "opp": {
+            "key": "PBR",
+            "name": "Point Breakers"
+          }
         }
       ],
       "division": 0,
@@ -2714,6 +2724,16 @@
           "opp": {
             "key": "PBR",
             "name": "Point Breakers"
+          }
+        },
+        {
+          "match_key": "mnp-18-14-SWL-NLT",
+          "week": "14",
+          "date": "20231211",
+          "side": "vs",
+          "opp": {
+            "key": "SWL",
+            "name": "Specials When Lit"
           }
         }
       ],
@@ -3504,6 +3524,16 @@
           "opp": {
             "key": "NLT",
             "name": "Northern Lights"
+          }
+        },
+        {
+          "match_key": "mnp-18-14-PBR-NMC",
+          "week": "14",
+          "date": "20231211",
+          "side": "@",
+          "opp": {
+            "key": "NMC",
+            "name": "Neuromancers"
           }
         }
       ],
@@ -4582,6 +4612,16 @@
           "opp": {
             "key": "NMC",
             "name": "Neuromancers"
+          }
+        },
+        {
+          "match_key": "mnp-18-14-SWL-NLT",
+          "week": "14",
+          "date": "20231211",
+          "side": "@",
+          "opp": {
+            "key": "NLT",
+            "name": "Northern Lights"
           }
         }
       ],
@@ -7755,6 +7795,42 @@
           "venue": {
             "key": "TWP",
             "name": "Time Warp"
+          }
+        }
+      ]
+    },
+    {
+      "n": "14",
+      "label": "WEEK 14",
+      "code": "WK14",
+      "isPlayoffs": true,
+      "isSpecial": false,
+      "date": "12/11/2023",
+      "matches": [
+        {
+          "match_key": "mnp-18-14-SWL-NLT",
+          "away_key": "SWL",
+          "away_name": "Specials When Lit",
+          "away_linked": true,
+          "home_key": "NLT",
+          "home_name": "Northern Lights",
+          "home_linked": true,
+          "venue": {
+            "key": "ADM",
+            "name": "Admiral Pub"
+          }
+        },
+        {
+          "match_key": "mnp-18-14-PBR-NMC",
+          "away_key": "PBR",
+          "away_name": "Point Breakers",
+          "away_linked": true,
+          "home_key": "NMC",
+          "home_name": "Neuromancers",
+          "home_linked": true,
+          "venue": {
+            "key": "ADM",
+            "name": "Admiral Pub"
           }
         }
       ]
