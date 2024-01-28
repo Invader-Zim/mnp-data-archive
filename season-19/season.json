@@ -888,6 +888,16 @@
       ],
       "schedule": [
         {
+          "match_key": "mnp-19-S-FBP-DTP",
+          "week": "S",
+          "date": "20240129",
+          "side": "vs",
+          "opp": {
+            "key": "FBP",
+            "name": "Flippin Big Points"
+          }
+        },
+        {
           "match_key": "mnp-19-1-SCN-DTP",
           "week": "1",
           "date": "20240205",
@@ -1171,6 +1181,16 @@
         }
       ],
       "schedule": [
+        {
+          "match_key": "mnp-19-S-FBP-DTP",
+          "week": "S",
+          "date": "20240129",
+          "side": "@",
+          "opp": {
+            "key": "DTP",
+            "name": "DTP"
+          }
+        },
         {
           "match_key": "mnp-19-1-FBP-RMS",
           "week": "1",
@@ -4819,6 +4839,28 @@
     }
   },
   "weeks": [
+    {
+      "n": "S",
+      "code": "SCRM",
+      "isPlayoffs": false,
+      "isSpecial": true,
+      "date": "01/29/2024",
+      "matches": [
+        {
+          "match_key": "mnp-19-S-FBP-DTP",
+          "away_key": "FBP",
+          "away_name": "Flippin Big Points",
+          "away_linked": true,
+          "home_key": "DTP",
+          "home_name": "DTP",
+          "home_linked": true,
+          "venue": {
+            "key": "JUP",
+            "name": "Jupiter"
+          }
+        }
+      ]
+    },
     {
       "n": "1",
       "label": "WEEK 1",
