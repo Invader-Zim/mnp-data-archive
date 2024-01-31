@@ -39,6 +39,16 @@
       ],
       "schedule": [
         {
+          "match_key": "mnp-19-S-ICB-ADB",
+          "week": "S",
+          "date": "20240131",
+          "side": "vs",
+          "opp": {
+            "key": "ICB",
+            "name": "Incrediballs"
+          }
+        },
+        {
           "match_key": "mnp-19-1-SSD-ADB",
           "week": "1",
           "date": "20240205",
@@ -888,16 +898,6 @@
       ],
       "schedule": [
         {
-          "match_key": "mnp-19-S-FBP-DTP",
-          "week": "S",
-          "date": "20240129",
-          "side": "vs",
-          "opp": {
-            "key": "FBP",
-            "name": "Flippin Big Points"
-          }
-        },
-        {
           "match_key": "mnp-19-1-SCN-DTP",
           "week": "1",
           "date": "20240205",
@@ -1181,16 +1181,6 @@
         }
       ],
       "schedule": [
-        {
-          "match_key": "mnp-19-S-FBP-DTP",
-          "week": "S",
-          "date": "20240129",
-          "side": "@",
-          "opp": {
-            "key": "DTP",
-            "name": "DTP"
-          }
-        },
         {
           "match_key": "mnp-19-1-FBP-RMS",
           "week": "1",
@@ -1614,6 +1604,16 @@
         }
       ],
       "schedule": [
+        {
+          "match_key": "mnp-19-S-ICB-ADB",
+          "week": "S",
+          "date": "20240131",
+          "side": "@",
+          "opp": {
+            "key": "ADB",
+            "name": "Admiraballs"
+          }
+        },
         {
           "match_key": "mnp-19-1-ICB-LAS",
           "week": "1",
@@ -4408,8 +4408,8 @@
         }
       ],
       "division": 0,
-      "captain": "Alexander Singleterry",
-      "co_captain": "Elliott Johnson"
+      "co_captain": "Elliott Johnson",
+      "captain": "Alexander Singleterry"
     },
     "POW": {
       "key": "POW",
@@ -4844,19 +4844,19 @@
       "code": "SCRM",
       "isPlayoffs": false,
       "isSpecial": true,
-      "date": "01/29/2024",
+      "date": "01/31/2024",
       "matches": [
         {
-          "match_key": "mnp-19-S-FBP-DTP",
-          "away_key": "FBP",
-          "away_name": "Flippin Big Points",
+          "match_key": "mnp-19-S-ICB-ADB",
+          "away_key": "ICB",
+          "away_name": "Incrediballs",
           "away_linked": true,
-          "home_key": "DTP",
-          "home_name": "DTP",
+          "home_key": "ADB",
+          "home_name": "Admiraballs",
           "home_linked": true,
           "venue": {
-            "key": "JUP",
-            "name": "Jupiter"
+            "key": "ADM",
+            "name": "Admiral Pub"
           }
         }
       ]
