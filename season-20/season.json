@@ -157,6 +157,16 @@
             "key": "NLT",
             "name": "Northern Lights"
           }
+        },
+        {
+          "match_key": "mnp-20-13-ADB-PBR",
+          "week": "13",
+          "date": "20241202",
+          "side": "@",
+          "opp": {
+            "key": "PBR",
+            "name": "Point Breakers"
+          }
         }
       ],
       "division": 0,
@@ -318,6 +328,16 @@
           "opp": {
             "key": "DTP",
             "name": "DTP"
+          }
+        },
+        {
+          "match_key": "mnp-20-13-CRA-TWC",
+          "week": "13",
+          "date": "20241202",
+          "side": "@",
+          "opp": {
+            "key": "TWC",
+            "name": "The Wrecking Crew"
           }
         }
       ],
@@ -2517,6 +2537,16 @@
             "key": "HHS",
             "name": "Hellhounds"
           }
+        },
+        {
+          "match_key": "mnp-20-13-NMC-RTR",
+          "week": "13",
+          "date": "20241202",
+          "side": "@",
+          "opp": {
+            "key": "RTR",
+            "name": "Ramp Tramps"
+          }
         }
       ],
       "division": 0,
@@ -3439,6 +3469,16 @@
             "key": "SSS",
             "name": "Silverball Slayers"
           }
+        },
+        {
+          "match_key": "mnp-20-13-ADB-PBR",
+          "week": "13",
+          "date": "20241202",
+          "side": "vs",
+          "opp": {
+            "key": "ADB",
+            "name": "Admiraballs"
+          }
         }
       ],
       "division": 0,
@@ -3600,6 +3640,16 @@
           "opp": {
             "key": "PKT",
             "name": "Pocketeers"
+          }
+        },
+        {
+          "match_key": "mnp-20-13-NMC-RTR",
+          "week": "13",
+          "date": "20241202",
+          "side": "vs",
+          "opp": {
+            "key": "NMC",
+            "name": "Neuromancers"
           }
         }
       ],
@@ -5087,6 +5137,16 @@
           "opp": {
             "key": "DSV",
             "name": "Death Savers"
+          }
+        },
+        {
+          "match_key": "mnp-20-13-CRA-TWC",
+          "week": "13",
+          "date": "20241202",
+          "side": "vs",
+          "opp": {
+            "key": "CRA",
+            "name": "Castle Crashers"
           }
         }
       ],
@@ -7604,6 +7664,55 @@
           "venue": {
             "key": "TWP",
             "name": "Time Warp"
+          }
+        }
+      ]
+    },
+    {
+      "n": "13",
+      "label": "WEEK 13",
+      "code": "WK13",
+      "isPlayoffs": true,
+      "isSpecial": false,
+      "date": "12/02/2024",
+      "matches": [
+        {
+          "match_key": "mnp-20-13-NMC-RTR",
+          "away_key": "NMC",
+          "away_name": "Neuromancers",
+          "away_linked": true,
+          "home_key": "RTR",
+          "home_name": "Ramp Tramps",
+          "home_linked": true,
+          "venue": {
+            "key": "T4B",
+            "name": "The 4Bs"
+          }
+        },
+        {
+          "match_key": "mnp-20-13-ADB-PBR",
+          "away_key": "ADB",
+          "away_name": "Admiraballs",
+          "away_linked": true,
+          "home_key": "PBR",
+          "home_name": "Point Breakers",
+          "home_linked": true,
+          "venue": {
+            "key": "AAB",
+            "name": "Add-a-Ball"
+          }
+        },
+        {
+          "match_key": "mnp-20-13-CRA-TWC",
+          "away_key": "CRA",
+          "away_name": "Castle Crashers",
+          "away_linked": true,
+          "home_key": "TWC",
+          "home_name": "The Wrecking Crew",
+          "home_linked": true,
+          "venue": {
+            "key": "GPA",
+            "name": "Georgetown Pizza and Arcade"
           }
         }
       ]
