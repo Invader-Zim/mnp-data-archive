@@ -167,6 +167,16 @@
             "key": "PBR",
             "name": "Point Breakers"
           }
+        },
+        {
+          "match_key": "mnp-20-14-ADB-TWC",
+          "week": "14",
+          "date": "20241209",
+          "side": "@",
+          "opp": {
+            "key": "TWC",
+            "name": "The Wrecking Crew"
+          }
         }
       ],
       "division": 0,
@@ -338,6 +348,16 @@
           "opp": {
             "key": "TWC",
             "name": "The Wrecking Crew"
+          }
+        },
+        {
+          "match_key": "mnp-20-14-CRA-PBR",
+          "week": "14",
+          "date": "20241209",
+          "side": "@",
+          "opp": {
+            "key": "PBR",
+            "name": "Point Breakers"
           }
         }
       ],
@@ -3479,6 +3499,16 @@
             "key": "ADB",
             "name": "Admiraballs"
           }
+        },
+        {
+          "match_key": "mnp-20-14-CRA-PBR",
+          "week": "14",
+          "date": "20241209",
+          "side": "vs",
+          "opp": {
+            "key": "CRA",
+            "name": "Castle Crashers"
+          }
         }
       ],
       "division": 0,
@@ -3654,8 +3684,8 @@
         }
       ],
       "division": 0,
-      "captain": "Maureen Hendrix",
-      "co_captain": "Isaac Kaplan-Woolner"
+      "co_captain": "Isaac Kaplan-Woolner",
+      "captain": "Maureen Hendrix"
     },
     "SSD": {
       "key": "SSD",
@@ -5147,6 +5177,16 @@
           "opp": {
             "key": "CRA",
             "name": "Castle Crashers"
+          }
+        },
+        {
+          "match_key": "mnp-20-14-ADB-TWC",
+          "week": "14",
+          "date": "20241209",
+          "side": "vs",
+          "opp": {
+            "key": "ADB",
+            "name": "Admiraballs"
           }
         }
       ],
@@ -7713,6 +7753,42 @@
           "venue": {
             "key": "GPA",
             "name": "Georgetown Pizza and Arcade"
+          }
+        }
+      ]
+    },
+    {
+      "n": "14",
+      "label": "WEEK 14",
+      "code": "WK14",
+      "isPlayoffs": true,
+      "isSpecial": false,
+      "date": "12/09/2024",
+      "matches": [
+        {
+          "match_key": "mnp-20-14-ADB-TWC",
+          "away_key": "ADB",
+          "away_name": "Admiraballs",
+          "away_linked": true,
+          "home_key": "TWC",
+          "home_name": "The Wrecking Crew",
+          "home_linked": true,
+          "venue": {
+            "key": "8BT",
+            "name": "8-bit Arcade Bar"
+          }
+        },
+        {
+          "match_key": "mnp-20-14-CRA-PBR",
+          "away_key": "CRA",
+          "away_name": "Castle Crashers",
+          "away_linked": true,
+          "home_key": "PBR",
+          "home_name": "Point Breakers",
+          "home_linked": true,
+          "venue": {
+            "key": "8BT",
+            "name": "8-bit Arcade Bar"
           }
         }
       ]
