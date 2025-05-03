@@ -157,6 +157,16 @@
             "key": "TWC",
             "name": "The Wrecking Crew"
           }
+        },
+        {
+          "match_key": "mnp-21-13-PBR-ADB",
+          "week": "13",
+          "date": "20250505",
+          "side": "vs",
+          "opp": {
+            "key": "PBR",
+            "name": "Point Breakers"
+          }
         }
       ],
       "division": 0,
@@ -480,6 +490,16 @@
           "opp": {
             "key": "DTP",
             "name": "DTP"
+          }
+        },
+        {
+          "match_key": "mnp-21-13-NLT-CRA",
+          "week": "13",
+          "date": "20250505",
+          "side": "vs",
+          "opp": {
+            "key": "NLT",
+            "name": "Northern Lights"
           }
         }
       ],
@@ -1826,6 +1846,16 @@
             "key": "BAD",
             "name": "Bad Cats"
           }
+        },
+        {
+          "match_key": "mnp-21-13-KNR-PYC",
+          "week": "13",
+          "date": "20250505",
+          "side": "@",
+          "opp": {
+            "key": "PYC",
+            "name": "Pinballycule"
+          }
         }
       ],
       "division": 0,
@@ -2566,6 +2596,16 @@
             "key": "SWL",
             "name": "Specials When Lit"
           }
+        },
+        {
+          "match_key": "mnp-21-13-NLT-CRA",
+          "week": "13",
+          "date": "20250505",
+          "side": "@",
+          "opp": {
+            "key": "CRA",
+            "name": "Castle Crashers"
+          }
         }
       ],
       "division": 0,
@@ -2879,6 +2919,16 @@
           "opp": {
             "key": "FBP",
             "name": "Flippin Big Points"
+          }
+        },
+        {
+          "match_key": "mnp-21-13-KNR-PYC",
+          "week": "13",
+          "date": "20250505",
+          "side": "vs",
+          "opp": {
+            "key": "KNR",
+            "name": "Knight Riders"
           }
         }
       ],
@@ -3325,6 +3375,16 @@
           "opp": {
             "key": "POW",
             "name": "The Power"
+          }
+        },
+        {
+          "match_key": "mnp-21-13-PBR-ADB",
+          "week": "13",
+          "date": "20250505",
+          "side": "@",
+          "opp": {
+            "key": "ADB",
+            "name": "Admiraballs"
           }
         }
       ],
@@ -7603,6 +7663,55 @@
           "away_linked": true,
           "home_key": "POW",
           "home_name": "The Power",
+          "home_linked": true,
+          "venue": {
+            "key": "IBX",
+            "name": "Ice Box"
+          }
+        }
+      ]
+    },
+    {
+      "n": "13",
+      "label": "WEEK 13",
+      "code": "WK13",
+      "isPlayoffs": true,
+      "isSpecial": false,
+      "date": "05/05/2025",
+      "matches": [
+        {
+          "match_key": "mnp-21-13-PBR-ADB",
+          "away_key": "PBR",
+          "away_name": "Point Breakers",
+          "away_linked": true,
+          "home_key": "ADB",
+          "home_name": "Admiraballs",
+          "home_linked": true,
+          "venue": {
+            "key": "ADM",
+            "name": "Admiral Pub"
+          }
+        },
+        {
+          "match_key": "mnp-21-13-NLT-CRA",
+          "away_key": "NLT",
+          "away_name": "Northern Lights",
+          "away_linked": true,
+          "home_key": "CRA",
+          "home_name": "Castle Crashers",
+          "home_linked": true,
+          "venue": {
+            "key": "ANC",
+            "name": "Another Castle"
+          }
+        },
+        {
+          "match_key": "mnp-21-13-KNR-PYC",
+          "away_key": "KNR",
+          "away_name": "Knight Riders",
+          "away_linked": true,
+          "home_key": "PYC",
+          "home_name": "Pinballycule",
           "home_linked": true,
           "venue": {
             "key": "IBX",
