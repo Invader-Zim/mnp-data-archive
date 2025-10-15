@@ -938,16 +938,16 @@
       "key": "TWP",
       "name": "Time Warp",
       "machines": [
-        "BKSoR",
-        "Godzilla",
-        "StellarWars",
-        "Robocop",
-        "T2",
-        "StrangerThings",
-        "PULP",
-        "BigGuns",
+        "SB",
         "UXMEN",
-        "SB"
+        "BigGuns",
+        "PULP",
+        "StrangerThings",
+        "T2",
+        "Robocop",
+        "StellarWars",
+        "Godzilla",
+        "BKSoR"
       ]
     },
     "away": {
@@ -1112,7 +1112,14 @@
           "name": "Valentina Addabbo",
           "sub": true,
           "IPR": 0,
-          "num_played": 3
+          "num_played": 1
+        },
+        {
+          "key": "24cdff8fa3ef52b290966e94026b1896f0bdb8a6",
+          "name": "Valentina OA ",
+          "sub": true,
+          "IPR": 0,
+          "num_played": 2
         },
         {
           "key": "d0f9f419cf29296781e2b4ba19492deeba7c32c7",
@@ -1122,11 +1129,8 @@
           "IPR": 1
         }
       ],
-      "ready": true,
-      "confirmed": {
-        "by": "Ren Logan",
-        "at": 1757387796210
-      }
+      "ready": false,
+      "confirmed": false
     },
     "rounds": [
       {
@@ -1335,7 +1339,7 @@
           {
             "n": 3,
             "machine": "Godzilla",
-            "player_1": "e74780997eb9d115d98377fc7d50d7c974831064",
+            "player_1": "24cdff8fa3ef52b290966e94026b1896f0bdb8a6",
             "player_2": "28b401e7cc90caf34db26d6746265dd76c5c378e",
             "done": true,
             "score_1": 20591880,
@@ -1448,15 +1452,7 @@
             "home_points": 1
           }
         ],
-        "done": true,
-        "left_confirmed": {
-          "by": "Joe Ricci",
-          "at": 1757392566237
-        },
-        "right_confirmed": {
-          "by": "Ren Logan",
-          "at": 1757392642609
-        }
+        "done": true
       },
       {
         "n": 3,
@@ -1465,7 +1461,7 @@
             "n": 1,
             "machine": "StrangerThings",
             "player_1": "c79a72d16566aaaac305a1573400f189a3f92659",
-            "player_2": "e74780997eb9d115d98377fc7d50d7c974831064",
+            "player_2": "24cdff8fa3ef52b290966e94026b1896f0bdb8a6",
             "done": true,
             "photos": [
               {
@@ -1631,15 +1627,7 @@
             "home_points": 1
           }
         ],
-        "done": true,
-        "right_confirmed": {
-          "by": "Joe Ricci",
-          "at": 1757394400492
-        },
-        "left_confirmed": {
-          "by": "Ren Logan",
-          "at": 1757394408282
-        }
+        "done": true
       },
       {
         "n": 4,
@@ -1714,7 +1702,7 @@
             "n": 3,
             "machine": "UXMEN",
             "player_1": "6ad6cfe36a73519ac4ae86267ee3ed41265d27ed",
-            "player_3": "e74780997eb9d115d98377fc7d50d7c974831064",
+            "player_3": "24cdff8fa3ef52b290966e94026b1896f0bdb8a6",
             "player_2": "c79a72d16566aaaac305a1573400f189a3f92659",
             "player_4": "5897b6ea3b27194fe5a4cd39635390529cb11d67",
             "photos": [
@@ -1767,15 +1755,7 @@
             "home_points": 4
           }
         ],
-        "done": true,
-        "right_confirmed": {
-          "by": "Ren Logan",
-          "at": 1757397264885
-        },
-        "left_confirmed": {
-          "by": "Joe Ricci",
-          "at": 1757397296974
-        }
+        "done": true
       }
     ],
     "players": []
