@@ -13791,16 +13791,16 @@
       "key": "KRA",
       "name": "Kraken",
       "machines": [
-        "AFM",
-        "Blackout",
-        "FH",
-        "MB",
-        "Ghost",
-        "BlackRose",
-        "Godzilla",
-        "Harlem",
+        "SternPark",
         "Firepower",
-        "SternPark"
+        "Harlem",
+        "Godzilla",
+        "BlackRose",
+        "Ghost",
+        "MB",
+        "FH",
+        "Blackout",
+        "AFM"
       ]
     },
     "away": {
@@ -13817,6 +13817,13 @@
         }
       ],
       "lineup": [
+        {
+          "key": "a95874552fc3832327986f2919cc4fd415992149",
+          "name": "Alexa Philbeck",
+          "sub": false,
+          "num_played": 3,
+          "IPR": 4
+        },
         {
           "key": "5231ab8c1c5ddecbf769b5a65731ab06281161d4",
           "name": "Bryan Eastman",
@@ -13846,6 +13853,13 @@
           "IPR": 5
         },
         {
+          "key": "90239d7e2085a450b8192701705676037e42262b",
+          "name": "Luke Camarda",
+          "sub": false,
+          "num_played": 3,
+          "IPR": 2
+        },
+        {
           "key": "ba77318287b251e294e9973be0ff010eff1643fb",
           "name": "Marshall Denton",
           "sub": false,
@@ -13853,11 +13867,11 @@
           "IPR": 5
         },
         {
-          "key": "a95874552fc3832327986f2919cc4fd415992149",
-          "name": "Alexa Philbeck",
-          "sub": false,
-          "num_played": 3,
-          "IPR": 4
+          "key": "1ef2393730f7e8abe932f37c59be4a6d2c2c2e8e",
+          "name": "Sam Lund",
+          "sub": true,
+          "IPR": 1,
+          "num_played": 3
         },
         {
           "key": "c0ae5e53fd1425f2909bf793a3b8450d5f985511",
@@ -13872,20 +13886,6 @@
           "sub": false,
           "num_played": 3,
           "IPR": 3
-        },
-        {
-          "key": "90239d7e2085a450b8192701705676037e42262b",
-          "name": "Luke Camarda",
-          "sub": false,
-          "num_played": 3,
-          "IPR": 2
-        },
-        {
-          "key": "1ef2393730f7e8abe932f37c59be4a6d2c2c2e8e",
-          "name": "Sam Lund",
-          "sub": true,
-          "IPR": 1,
-          "num_played": 3
         }
       ],
       "ready": true,
@@ -13909,11 +13909,11 @@
       ],
       "lineup": [
         {
-          "key": "9672148aebe01ff56dd3ab83d86f861ab1cc9fb9",
-          "name": "Ryan Odonnell CA",
+          "key": "59c3da0a04ab3b14bf4524f76808267e1e0bdda4",
+          "name": "Jenny Vidovic",
           "sub": false,
           "num_played": 3,
-          "IPR": 5
+          "IPR": 2
         },
         {
           "key": "984a7710a53e88628d20f1e141774accc36ed03a",
@@ -13923,6 +13923,13 @@
           "IPR": 4
         },
         {
+          "key": "ac07a0663edfe9b42dbd193524f865dffcbf2925",
+          "name": "Morgan Verburg",
+          "sub": false,
+          "num_played": 3,
+          "IPR": 1
+        },
+        {
           "key": "ad017202dcdd267369c76b22b049ae5f7843f5e3",
           "name": "Nick Gibson",
           "sub": false,
@@ -13930,25 +13937,18 @@
           "IPR": 4
         },
         {
-          "key": "b160d6b4daeede80ef36d15092813f893106d992",
-          "name": "Zeb Virkus",
-          "sub": false,
-          "num_played": 3,
-          "IPR": 3
-        },
-        {
-          "key": "59c3da0a04ab3b14bf4524f76808267e1e0bdda4",
-          "name": "Jenny Vidovic",
-          "sub": false,
-          "num_played": 3,
-          "IPR": 2
-        },
-        {
           "key": "878483c92abd068723e2356261cb06190c68db7d",
           "name": "Paul White WA",
           "sub": false,
           "num_played": 3,
           "IPR": 2
+        },
+        {
+          "key": "9672148aebe01ff56dd3ab83d86f861ab1cc9fb9",
+          "name": "Ryan Odonnell CA",
+          "sub": false,
+          "num_played": 3,
+          "IPR": 5
         },
         {
           "key": "943eeaeea772a3c2edee8725b5d1d7504abab68b",
@@ -13965,11 +13965,11 @@
           "IPR": 2
         },
         {
-          "key": "ac07a0663edfe9b42dbd193524f865dffcbf2925",
-          "name": "Morgan Verburg",
+          "key": "b160d6b4daeede80ef36d15092813f893106d992",
+          "name": "Zeb Virkus",
           "sub": false,
           "num_played": 3,
-          "IPR": 1
+          "IPR": 3
         },
         {
           "key": "02c2161223260dbf248049576786a5fe6592ed36",
@@ -14379,13 +14379,13 @@
             "machine": "Firepower",
             "player_1": "7c127d57a5574a9b79e8709f03956b9fe998ecb6",
             "player_2": "02c2161223260dbf248049576786a5fe6592ed36",
-            "score_1": 3259003,
+            "score_1": 325900,
             "score_2": 133460,
             "points_1": 3,
             "points_2": 0,
             "points_13": 3,
             "points_24": 0,
-            "score_13": 3259003,
+            "score_13": 325900,
             "score_24": 133460,
             "away_points": 3,
             "home_points": 0
@@ -14408,15 +14408,7 @@
             "home_points": 3
           }
         ],
-        "done": true,
-        "left_confirmed": {
-          "by": "Bryan Eastman",
-          "at": 1762237925214
-        },
-        "right_confirmed": {
-          "by": "Paul White WA",
-          "at": 1762237956444
-        }
+        "done": true
       },
       {
         "n": 4,
