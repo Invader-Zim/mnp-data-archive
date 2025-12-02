@@ -471,6 +471,16 @@
             "key": "DTP",
             "name": "DTP"
           }
+        },
+        {
+          "match_key": "mnp-22-14-CRA-NLT",
+          "week": "14",
+          "date": "20251208",
+          "side": "@",
+          "opp": {
+            "key": "NLT",
+            "name": "Northern Lights"
+          }
         }
       ],
       "division": 0,
@@ -1118,6 +1128,16 @@
           "opp": {
             "key": "CRA",
             "name": "Castle Crashers"
+          }
+        },
+        {
+          "match_key": "mnp-22-14-SSS-DTP",
+          "week": "14",
+          "date": "20251208",
+          "side": "vs",
+          "opp": {
+            "key": "SSS",
+            "name": "Silverball Slayers"
           }
         }
       ],
@@ -2618,6 +2638,16 @@
             "key": "SSS",
             "name": "Silverball Slayers"
           }
+        },
+        {
+          "match_key": "mnp-22-14-CRA-NLT",
+          "week": "14",
+          "date": "20251208",
+          "side": "vs",
+          "opp": {
+            "key": "CRA",
+            "name": "Castle Crashers"
+          }
         }
       ],
       "division": 0,
@@ -4104,6 +4134,16 @@
           "opp": {
             "key": "NLT",
             "name": "Northern Lights"
+          }
+        },
+        {
+          "match_key": "mnp-22-14-SSS-DTP",
+          "week": "14",
+          "date": "20251208",
+          "side": "@",
+          "opp": {
+            "key": "DTP",
+            "name": "DTP"
           }
         }
       ],
@@ -7724,6 +7764,42 @@
           "venue": {
             "key": "ANC",
             "name": "Another Castle"
+          }
+        }
+      ]
+    },
+    {
+      "n": "14",
+      "label": "WEEK 14",
+      "code": "WK14",
+      "isPlayoffs": true,
+      "isSpecial": false,
+      "date": "12/08/2025",
+      "matches": [
+        {
+          "match_key": "mnp-22-14-CRA-NLT",
+          "away_key": "CRA",
+          "away_name": "Castle Crashers",
+          "away_linked": true,
+          "home_key": "NLT",
+          "home_name": "Northern Lights",
+          "home_linked": true,
+          "venue": {
+            "key": "IBX",
+            "name": "Ice Box"
+          }
+        },
+        {
+          "match_key": "mnp-22-14-SSS-DTP",
+          "away_key": "SSS",
+          "away_name": "Silverball Slayers",
+          "away_linked": true,
+          "home_key": "DTP",
+          "home_name": "DTP",
+          "home_linked": true,
+          "venue": {
+            "key": "IBX",
+            "name": "Ice Box"
           }
         }
       ]
