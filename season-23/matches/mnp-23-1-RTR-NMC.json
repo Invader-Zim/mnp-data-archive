@@ -3,11 +3,11 @@
   "name": "WK1 RTR @ NMC",
   "type": "manual",
   "week": "1",
-  "round": 1,
+  "round": 4,
   "create_at": 1770025858593,
   "date": "02/02/2026",
-  "state": "pregame",
-  "state_at": 1770025858593,
+  "state": "complete",
+  "state_at": 1770103098044,
   "venue": {
     "key": "TWP",
     "name": "Time Warp",
@@ -20,8 +20,8 @@
       "PULP",
       "BigGuns",
       "UXMEN",
-      "SB",
-      "SWFOTE"
+      "SWFOTE",
+      "Evil Dead"
     ]
   },
   "away": {
@@ -39,76 +39,81 @@
     ],
     "lineup": [
       {
-        "key": "e5bc9d0e80f73635b59e42c2fa8ae2fd90ec0a4d",
-        "name": "Andrew Cole WA",
-        "sub": false,
-        "num_played": 0,
-        "IPR": 3
-      },
-      {
-        "key": "7667cb7b78d118b72f26d5b2459bfa875b84e88e",
-        "name": "Andy Yarritu",
-        "sub": false,
-        "num_played": 0,
-        "IPR": 1
-      },
-      {
-        "key": "8b59e520570da6d430ea85dbbcba98845d80dc81",
-        "name": "Brian Kirk WA",
-        "sub": false,
-        "num_played": 0,
-        "IPR": 1
-      },
-      {
-        "key": "0fe09712e877bf6f63c762ef063c735fffa28a2f",
-        "name": "Brian O'Neill WA",
-        "sub": false,
-        "num_played": 0,
-        "IPR": 1
+        "key": "97db83b84b74f6a510ad23ff05d6506466028053",
+        "name": "Daron Coull",
+        "sub": true,
+        "IPR": 5,
+        "num_played": 3
       },
       {
         "key": "44cc5819585205fe12c43d664ed4d3568ff22d59",
         "name": "Brooke Borcherding",
         "sub": false,
-        "num_played": 0,
+        "num_played": 3,
         "IPR": 4
       },
       {
-        "key": "691d6eb9cb3c2ebbd73439ff9a18eae44f9559df",
-        "name": "Chelsea Rakonza",
+        "key": "e5bc9d0e80f73635b59e42c2fa8ae2fd90ec0a4d",
+        "name": "Andrew Cole WA",
         "sub": false,
-        "num_played": 0,
-        "IPR": 1
+        "num_played": 3,
+        "IPR": 3
       },
       {
         "key": "c543633ea63045411ecebe25a7d0e29c58a7b29b",
         "name": "Emily Beirne",
         "sub": false,
-        "num_played": 0,
+        "num_played": 3,
+        "IPR": 3
+      },
+      {
+        "key": "5ae9116cce4386a478f945316dadc934c87191a9",
+        "name": "Maureen Hendrix",
+        "sub": false,
+        "num_played": 3,
         "IPR": 3
       },
       {
         "key": "a707d53ba74b73e274f29838d21b9b5172ac0d8a",
         "name": "Isaac Kaplan-Woolner",
         "sub": false,
-        "num_played": 0,
+        "num_played": 3,
         "IPR": 2
       },
       {
         "key": "3e6383f60dd7a67d3beba63207fc2fb606ab61ad",
         "name": "Jason Boekeloo",
         "sub": false,
-        "num_played": 0,
+        "num_played": 3,
         "IPR": 2
       },
       {
-        "key": "5ae9116cce4386a478f945316dadc934c87191a9",
-        "name": "Maureen Hendrix",
+        "key": "7667cb7b78d118b72f26d5b2459bfa875b84e88e",
+        "name": "Andy Yarritu",
         "sub": false,
-        "num_played": 0,
-        "IPR": 3
+        "num_played": 3,
+        "IPR": 1
+      },
+      {
+        "key": "8b59e520570da6d430ea85dbbcba98845d80dc81",
+        "name": "Brian Kirk WA",
+        "sub": false,
+        "num_played": 3,
+        "IPR": 1
+      },
+      {
+        "key": "0fe09712e877bf6f63c762ef063c735fffa28a2f",
+        "name": "Brian O'Neill WA",
+        "sub": false,
+        "num_played": 3,
+        "IPR": 1
       }
-    ]
+    ],
+    "ready": true,
+    "confirmed": {
+      "by": "Sean Bray",
+      "at": 1770091664743
+    }
   },
   "home": {
     "name": "Neuromancers",
@@ -125,163 +130,722 @@
     ],
     "lineup": [
       {
+        "key": "eb7b0c41578672eedf2601ef1c0b5c7240b6d1ac",
+        "name": "Joe Ricci",
+        "sub": false,
+        "num_played": 3,
+        "IPR": 5
+      },
+      {
+        "key": "07f83b866165005e5bfd051b36bfb0e60c814954",
+        "name": "Tim Uomoto",
+        "sub": false,
+        "num_played": 3,
+        "IPR": 5
+      },
+      {
         "key": "f6e4834317248be1c3faf8ca87add2ede7031601",
         "name": "Andrew Meuser",
         "sub": false,
-        "num_played": 0,
+        "num_played": 3,
         "IPR": 4
-      },
-      {
-        "key": "84c806877749da9b10c0581ec1677ea5809e2e27",
-        "name": "Brian Baskoff",
-        "sub": false,
-        "num_played": 0,
-        "IPR": 1
       },
       {
         "key": "041f7ae9762916e85cc6370b78a58ab3b2246a22",
         "name": "Cassandra Dymock",
         "sub": false,
-        "num_played": 0,
+        "num_played": 3,
         "IPR": 2
+      },
+      {
+        "key": "84c806877749da9b10c0581ec1677ea5809e2e27",
+        "name": "Brian Baskoff",
+        "sub": false,
+        "num_played": 3,
+        "IPR": 1
       },
       {
         "key": "39bb3af6f7f08a77ea93c4503220d1f5f39ec18f",
         "name": "Emily Hunter WA",
         "sub": false,
-        "num_played": 0,
+        "num_played": 3,
         "IPR": 1
       },
       {
         "key": "2e39e353b5705520dfbe8f37dd55838fc51bb188",
         "name": "Jennell Baldwin",
         "sub": false,
-        "num_played": 0,
+        "num_played": 3,
         "IPR": 1
-      },
-      {
-        "key": "eb7b0c41578672eedf2601ef1c0b5c7240b6d1ac",
-        "name": "Joe Ricci",
-        "sub": false,
-        "num_played": 0,
-        "IPR": 5
       },
       {
         "key": "d491094f6b30d6eb67ff3d38d0f44a866846613a",
         "name": "Sean Bray",
         "sub": false,
-        "num_played": 0,
+        "num_played": 3,
         "IPR": 1
-      },
-      {
-        "key": "07f83b866165005e5bfd051b36bfb0e60c814954",
-        "name": "Tim Uomoto",
-        "sub": false,
-        "num_played": 0,
-        "IPR": 5
       },
       {
         "key": "f9903e03d3a853701192079b7a904ad93c039f3d",
         "name": "Todd Brown",
         "sub": false,
-        "num_played": 0,
+        "num_played": 3,
         "IPR": 1
       },
       {
         "key": "d0f9f419cf29296781e2b4ba19492deeba7c32c7",
         "name": "Wardell Baldwin III",
         "sub": false,
-        "num_played": 0,
+        "num_played": 3,
         "IPR": 1
       }
-    ]
+    ],
+    "ready": true,
+    "confirmed": {
+      "by": "Maureen Hendrix",
+      "at": 1770091740268
+    }
   },
   "rounds": [
     {
       "n": 1,
       "games": [
         {
-          "n": 1
+          "n": 1,
+          "machine": "StrangerThings",
+          "player_1": "3e6383f60dd7a67d3beba63207fc2fb606ab61ad",
+          "player_3": "8b59e520570da6d430ea85dbbcba98845d80dc81",
+          "player_2": "f6e4834317248be1c3faf8ca87add2ede7031601",
+          "player_4": "d0f9f419cf29296781e2b4ba19492deeba7c32c7",
+          "done": true,
+          "photos": [
+            {
+              "uploaded_by": "d491094f6b30d6eb67ff3d38d0f44a866846613a",
+              "url": "/pics/a3c5377604bc366ac5f40132ce2c6a60e0115abf",
+              "rot": 0,
+              "scale": 4.521915488557949,
+              "dx": -284,
+              "dy": -321
+            }
+          ],
+          "score_1": 89754850,
+          "score_2": 97918550,
+          "score_3": 42098470,
+          "score_4": 20135560,
+          "points_1": 1.5,
+          "points_2": 2,
+          "points_3": 1.5,
+          "points_4": 0,
+          "score_13": 131853320,
+          "score_24": 118054110,
+          "points_13": 3,
+          "points_24": 2,
+          "away_points": 3,
+          "home_points": 2
         },
         {
-          "n": 2
+          "n": 2,
+          "machine": "Godzilla",
+          "player_1": "e5bc9d0e80f73635b59e42c2fa8ae2fd90ec0a4d",
+          "player_3": "7667cb7b78d118b72f26d5b2459bfa875b84e88e",
+          "player_2": "eb7b0c41578672eedf2601ef1c0b5c7240b6d1ac",
+          "player_4": "d491094f6b30d6eb67ff3d38d0f44a866846613a",
+          "done": true,
+          "photos": [
+            {
+              "uploaded_by": "d491094f6b30d6eb67ff3d38d0f44a866846613a",
+              "url": "/pics/dd84daa352f5387c7c34c92bc5b65e091e8895df",
+              "rot": 0,
+              "scale": 3.520652939064781,
+              "dx": -280,
+              "dy": -224
+            }
+          ],
+          "score_1": 119349070,
+          "score_2": 245230660,
+          "score_3": 47390560,
+          "score_4": 21423000,
+          "points_1": 1,
+          "points_2": 2.5,
+          "points_3": 1,
+          "points_4": 0.5,
+          "score_13": 166739630,
+          "score_24": 266653660,
+          "points_13": 2,
+          "points_24": 3,
+          "away_points": 2,
+          "home_points": 3
         },
         {
-          "n": 3
+          "n": 3,
+          "machine": "BigGuns",
+          "player_1": "0fe09712e877bf6f63c762ef063c735fffa28a2f",
+          "player_3": "a707d53ba74b73e274f29838d21b9b5172ac0d8a",
+          "player_2": "2e39e353b5705520dfbe8f37dd55838fc51bb188",
+          "player_4": "39bb3af6f7f08a77ea93c4503220d1f5f39ec18f",
+          "done": true,
+          "score_1": 469150,
+          "score_2": 1206370,
+          "score_3": 222080,
+          "score_4": 234170,
+          "points_1": 1,
+          "points_2": 2.5,
+          "points_3": 0,
+          "points_4": 1.5,
+          "score_13": 691230,
+          "score_24": 1440540,
+          "points_13": 1,
+          "points_24": 4,
+          "away_points": 1,
+          "home_points": 4
         },
         {
-          "n": 4
+          "n": 4,
+          "machine": "StellarWars",
+          "player_1": "c543633ea63045411ecebe25a7d0e29c58a7b29b",
+          "player_3": "44cc5819585205fe12c43d664ed4d3568ff22d59",
+          "player_2": "f9903e03d3a853701192079b7a904ad93c039f3d",
+          "player_4": "84c806877749da9b10c0581ec1677ea5809e2e27",
+          "photos": [
+            {
+              "uploaded_by": "44cc5819585205fe12c43d664ed4d3568ff22d59",
+              "url": "/pics/c685cd0308c6bc30f7ef20304855b9041021af33",
+              "rot": 0,
+              "scale": 2.476182983981244,
+              "dx": -22,
+              "dy": -177
+            }
+          ],
+          "score_1": 93090,
+          "score_2": 85200,
+          "score_3": 121820,
+          "score_4": 151430,
+          "done": true,
+          "points_1": 1,
+          "points_2": 0.5,
+          "points_3": 1,
+          "points_4": 2.5,
+          "score_13": 214910,
+          "score_24": 236630,
+          "points_13": 2,
+          "points_24": 3,
+          "away_points": 2,
+          "home_points": 3
         }
-      ]
+      ],
+      "done": true,
+      "right_confirmed": {
+        "by": "Sean Bray",
+        "at": 1770094501401
+      },
+      "left_confirmed": {
+        "by": "Maureen Hendrix",
+        "at": 1770094505666
+      }
     },
     {
       "n": 2,
       "games": [
         {
-          "n": 1
+          "n": 1,
+          "machine": "Evil Dead",
+          "player_1": "07f83b866165005e5bfd051b36bfb0e60c814954",
+          "player_2": "97db83b84b74f6a510ad23ff05d6506466028053",
+          "done": true,
+          "photos": [
+            {
+              "uploaded_by": "07f83b866165005e5bfd051b36bfb0e60c814954",
+              "url": "/pics/41203d35517153453b9f35c9cb4ce45aa010ba75",
+              "rot": 0,
+              "scale": 2.2289467238171627,
+              "dx": -300,
+              "dy": -241
+            }
+          ],
+          "score_1": 125164020,
+          "points_1": 3,
+          "points_2": 0,
+          "points_3": 0,
+          "points_4": 0,
+          "points_13": 3,
+          "points_24": 0,
+          "score_13": 125164020,
+          "score_24": 6046840,
+          "score_2": 6046840,
+          "away_points": 0,
+          "home_points": 3
         },
         {
-          "n": 2
+          "n": 2,
+          "machine": "BigGuns",
+          "player_1": "2e39e353b5705520dfbe8f37dd55838fc51bb188",
+          "player_2": "8b59e520570da6d430ea85dbbcba98845d80dc81",
+          "done": true,
+          "score_1": 374210,
+          "score_2": 391090,
+          "points_1": 1,
+          "points_2": 2,
+          "points_13": 1,
+          "points_24": 2,
+          "score_13": 374210,
+          "score_24": 391090,
+          "away_points": 2,
+          "home_points": 1
         },
         {
-          "n": 3
+          "n": 3,
+          "machine": "UXMEN",
+          "player_1": "041f7ae9762916e85cc6370b78a58ab3b2246a22",
+          "player_2": "5ae9116cce4386a478f945316dadc934c87191a9",
+          "done": true,
+          "photos": [
+            {
+              "uploaded_by": "5ae9116cce4386a478f945316dadc934c87191a9",
+              "url": "/pics/4faabe599d90caeb69c41b4406b3e56f6f9032f4",
+              "rot": 0,
+              "scale": 2.808585976429291,
+              "dx": -90,
+              "dy": -447
+            },
+            {
+              "uploaded_by": "041f7ae9762916e85cc6370b78a58ab3b2246a22",
+              "url": "/pics/720cd28ed021705969aedd5f819716d293ed9818",
+              "rot": 0,
+              "scale": 3.643516768310569,
+              "dx": -191,
+              "dy": -382
+            }
+          ],
+          "score_1": 50393480,
+          "score_2": 40190960,
+          "points_1": 2,
+          "points_2": 1,
+          "points_13": 2,
+          "points_24": 1,
+          "score_13": 50393480,
+          "score_24": 40190960,
+          "away_points": 1,
+          "home_points": 2
         },
         {
-          "n": 4
+          "n": 4,
+          "machine": "StrangerThings",
+          "player_1": "eb7b0c41578672eedf2601ef1c0b5c7240b6d1ac",
+          "player_2": "3e6383f60dd7a67d3beba63207fc2fb606ab61ad",
+          "done": true,
+          "photos": [
+            {
+              "uploaded_by": "eb7b0c41578672eedf2601ef1c0b5c7240b6d1ac",
+              "url": "/pics/b5aacf7aebcfb037e7cdbc5b07cee9fd760dad15",
+              "rot": 0,
+              "scale": 3.9129335170821173,
+              "dx": -73,
+              "dy": -774
+            }
+          ],
+          "score_1": 51196600,
+          "score_2": 70638720,
+          "points_1": 1,
+          "points_2": 2,
+          "points_13": 1,
+          "points_24": 2,
+          "score_13": 51196600,
+          "score_24": 70638720,
+          "away_points": 2,
+          "home_points": 1
         },
         {
-          "n": 5
+          "n": 5,
+          "machine": "StellarWars",
+          "player_1": "d0f9f419cf29296781e2b4ba19492deeba7c32c7",
+          "player_2": "0fe09712e877bf6f63c762ef063c735fffa28a2f",
+          "done": true,
+          "score_1": 241180,
+          "score_2": 104820,
+          "points_1": 3,
+          "points_2": 0,
+          "points_13": 3,
+          "points_24": 0,
+          "score_13": 241180,
+          "score_24": 104820,
+          "away_points": 0,
+          "home_points": 3
         },
         {
-          "n": 6
+          "n": 6,
+          "machine": "SWFOTE",
+          "player_1": "f9903e03d3a853701192079b7a904ad93c039f3d",
+          "player_2": "7667cb7b78d118b72f26d5b2459bfa875b84e88e",
+          "done": true,
+          "photos": [
+            {
+              "uploaded_by": "7667cb7b78d118b72f26d5b2459bfa875b84e88e",
+              "url": "/pics/4a0d1aed2a3809d3699f1d1545d622d728919ed2",
+              "rot": 0,
+              "scale": 1.3910665125300294,
+              "dx": 15,
+              "dy": 19
+            }
+          ],
+          "score_1": 10286280,
+          "score_2": 509063700,
+          "points_1": 0,
+          "points_2": 3,
+          "points_13": 0,
+          "points_24": 3,
+          "score_13": 10286280,
+          "score_24": 509063700,
+          "away_points": 3,
+          "home_points": 0
         },
         {
-          "n": 7
+          "n": 7,
+          "machine": "T2",
+          "player_1": "d491094f6b30d6eb67ff3d38d0f44a866846613a",
+          "player_2": "e5bc9d0e80f73635b59e42c2fa8ae2fd90ec0a4d",
+          "photos": [
+            {
+              "uploaded_by": "e5bc9d0e80f73635b59e42c2fa8ae2fd90ec0a4d",
+              "url": "/pics/d74bef6d0c793ec6096c9c8898cc0d4bd9d8e794",
+              "rot": 0,
+              "scale": 1,
+              "dx": 0,
+              "dy": 0
+            }
+          ],
+          "score_1": 5786930,
+          "score_2": 4829520,
+          "done": true,
+          "points_1": 2,
+          "points_2": 1,
+          "points_13": 2,
+          "points_24": 1,
+          "score_13": 5786930,
+          "score_24": 4829520,
+          "away_points": 1,
+          "home_points": 2
         }
-      ]
+      ],
+      "done": true,
+      "right_confirmed": {
+        "by": "Maureen Hendrix",
+        "at": 1770095895414
+      },
+      "left_confirmed": {
+        "by": "Tim Uomoto",
+        "at": 1770095907974
+      }
     },
     {
       "n": 3,
       "games": [
         {
-          "n": 1
+          "n": 1,
+          "machine": "StellarWars",
+          "player_1": "c543633ea63045411ecebe25a7d0e29c58a7b29b",
+          "player_2": "d0f9f419cf29296781e2b4ba19492deeba7c32c7",
+          "done": true,
+          "score_1": 196850,
+          "score_2": 50810,
+          "points_1": 3,
+          "points_2": 0,
+          "points_13": 3,
+          "points_24": 0,
+          "score_13": 196850,
+          "score_24": 50810,
+          "away_points": 3,
+          "home_points": 0
         },
         {
-          "n": 2
+          "n": 2,
+          "machine": "SWFOTE",
+          "player_1": "7667cb7b78d118b72f26d5b2459bfa875b84e88e",
+          "player_2": "39bb3af6f7f08a77ea93c4503220d1f5f39ec18f",
+          "done": true,
+          "photos": [
+            {
+              "uploaded_by": "7667cb7b78d118b72f26d5b2459bfa875b84e88e",
+              "url": "/pics/dc907979e05e6f216d430236f5f43d8082512db3",
+              "rot": 0,
+              "scale": 1.357270702773619,
+              "dx": -56,
+              "dy": -28
+            }
+          ],
+          "score_1": 587002460,
+          "score_2": 31042060,
+          "points_1": 3,
+          "points_2": 0,
+          "points_13": 3,
+          "points_24": 0,
+          "score_13": 587002460,
+          "score_24": 31042060,
+          "away_points": 3,
+          "home_points": 0
         },
         {
-          "n": 3
+          "n": 3,
+          "machine": "T2",
+          "player_1": "44cc5819585205fe12c43d664ed4d3568ff22d59",
+          "player_2": "f6e4834317248be1c3faf8ca87add2ede7031601",
+          "photos": [
+            {
+              "uploaded_by": "44cc5819585205fe12c43d664ed4d3568ff22d59",
+              "url": "/pics/6dd09c18ce85f69dbdadbdc63868bc8ba221c2de",
+              "rot": 0,
+              "scale": 4.870421959344793,
+              "dx": -240,
+              "dy": -441
+            }
+          ],
+          "score_1": 11868790,
+          "score_2": 98731220,
+          "done": true,
+          "points_1": 0,
+          "points_2": 3,
+          "points_13": 0,
+          "points_24": 3,
+          "score_13": 11868790,
+          "score_24": 98731220,
+          "away_points": 0,
+          "home_points": 3
         },
         {
-          "n": 4
+          "n": 4,
+          "machine": "BKSoR",
+          "player_1": "5ae9116cce4386a478f945316dadc934c87191a9",
+          "player_2": "07f83b866165005e5bfd051b36bfb0e60c814954",
+          "done": true,
+          "photos": [
+            {
+              "uploaded_by": "07f83b866165005e5bfd051b36bfb0e60c814954",
+              "url": "/pics/4fa2fd3731e74acf2140bd411e365c25ac9c1f97",
+              "rot": 0,
+              "scale": 1.3108794086033366,
+              "dx": -79,
+              "dy": -226
+            }
+          ],
+          "score_1": 74144490,
+          "score_2": 166383010,
+          "points_1": 0,
+          "points_2": 3,
+          "points_13": 0,
+          "points_24": 3,
+          "score_13": 74144490,
+          "score_24": 166383010,
+          "away_points": 0,
+          "home_points": 3
         },
         {
-          "n": 5
+          "n": 5,
+          "machine": "Evil Dead",
+          "player_1": "a707d53ba74b73e274f29838d21b9b5172ac0d8a",
+          "player_2": "f9903e03d3a853701192079b7a904ad93c039f3d",
+          "done": true,
+          "points_1": 3,
+          "points_2": 0,
+          "points_3": 0,
+          "points_4": 0,
+          "points_13": 3,
+          "points_24": 0,
+          "score_13": 35538560,
+          "score_24": 7670940,
+          "photos": [
+            {
+              "uploaded_by": "a707d53ba74b73e274f29838d21b9b5172ac0d8a",
+              "url": "/pics/5df00096748de0dd9e41240c8b79d69bb7009948",
+              "rot": 0,
+              "scale": 2.5016954196640926,
+              "dx": -152,
+              "dy": -371
+            }
+          ],
+          "score_1": 35538560,
+          "score_2": 7670940,
+          "away_points": 3,
+          "home_points": 0
         },
         {
-          "n": 6
+          "n": 6,
+          "machine": "UXMEN",
+          "player_1": "97db83b84b74f6a510ad23ff05d6506466028053",
+          "player_2": "041f7ae9762916e85cc6370b78a58ab3b2246a22",
+          "done": true,
+          "score_1": 63012970,
+          "score_2": 91790700,
+          "points_1": 1,
+          "points_2": 2,
+          "points_13": 1,
+          "points_24": 2,
+          "score_13": 63012970,
+          "score_24": 91790700,
+          "away_points": 1,
+          "home_points": 2
         },
         {
-          "n": 7
+          "n": 7,
+          "machine": "StrangerThings",
+          "player_1": "8b59e520570da6d430ea85dbbcba98845d80dc81",
+          "player_2": "84c806877749da9b10c0581ec1677ea5809e2e27",
+          "done": true,
+          "score_1": 198842890,
+          "score_2": 52517100,
+          "points_1": 3,
+          "points_2": 0,
+          "points_13": 3,
+          "points_24": 0,
+          "score_13": 198842890,
+          "score_24": 52517100,
+          "away_points": 3,
+          "home_points": 0
         }
-      ]
+      ],
+      "done": true,
+      "left_confirmed": {
+        "by": "Maureen Hendrix",
+        "at": 1770097996084
+      },
+      "right_confirmed": {
+        "by": "Tim Uomoto",
+        "at": 1770098013278
+      }
     },
     {
       "n": 4,
       "games": [
         {
-          "n": 1
+          "n": 1,
+          "machine": "Godzilla",
+          "player_1": "f6e4834317248be1c3faf8ca87add2ede7031601",
+          "player_3": "eb7b0c41578672eedf2601ef1c0b5c7240b6d1ac",
+          "player_2": "e5bc9d0e80f73635b59e42c2fa8ae2fd90ec0a4d",
+          "player_4": "3e6383f60dd7a67d3beba63207fc2fb606ab61ad",
+          "done": true,
+          "photos": [
+            {
+              "uploaded_by": "eb7b0c41578672eedf2601ef1c0b5c7240b6d1ac",
+              "url": "/pics/69e66adf03e840ea31c82309b5f063c4416a42ce",
+              "rot": 0,
+              "scale": 4.855699263519524,
+              "dx": -459,
+              "dy": -670
+            }
+          ],
+          "score_1": 57370920,
+          "score_2": 20759840,
+          "score_3": 119212320,
+          "score_4": 80141900,
+          "points_1": 1.5,
+          "points_2": 0,
+          "points_3": 2.5,
+          "points_4": 1,
+          "score_13": 176583240,
+          "score_24": 100901740,
+          "points_13": 4,
+          "points_24": 1,
+          "away_points": 1,
+          "home_points": 4
         },
         {
-          "n": 2
+          "n": 2,
+          "machine": "StellarWars",
+          "player_1": "2e39e353b5705520dfbe8f37dd55838fc51bb188",
+          "player_3": "84c806877749da9b10c0581ec1677ea5809e2e27",
+          "player_2": "44cc5819585205fe12c43d664ed4d3568ff22d59",
+          "player_4": "c543633ea63045411ecebe25a7d0e29c58a7b29b",
+          "done": true,
+          "score_1": 295920,
+          "score_2": 114600,
+          "score_3": 266600,
+          "score_4": 84670,
+          "points_1": 2.5,
+          "points_2": 0,
+          "points_3": 2.5,
+          "points_4": 0,
+          "score_13": 562520,
+          "score_24": 199270,
+          "points_13": 5,
+          "points_24": 0,
+          "away_points": 0,
+          "home_points": 5
         },
         {
-          "n": 3
+          "n": 3,
+          "machine": "T2",
+          "player_1": "d491094f6b30d6eb67ff3d38d0f44a866846613a",
+          "player_3": "39bb3af6f7f08a77ea93c4503220d1f5f39ec18f",
+          "player_2": "a707d53ba74b73e274f29838d21b9b5172ac0d8a",
+          "player_4": "0fe09712e877bf6f63c762ef063c735fffa28a2f",
+          "photos": [
+            {
+              "uploaded_by": "a707d53ba74b73e274f29838d21b9b5172ac0d8a",
+              "url": "/pics/169e3cec203d11c8aff77728fdc7514ec1667afe",
+              "rot": 0,
+              "scale": 2.85019239766339,
+              "dx": 5,
+              "dy": -417
+            }
+          ],
+          "score_1": 12217270,
+          "score_2": 14355310,
+          "score_3": 4820680,
+          "score_4": 7050420,
+          "done": true,
+          "points_1": 1,
+          "points_2": 2.5,
+          "points_3": 0,
+          "points_4": 1.5,
+          "score_13": 17037950,
+          "score_24": 21405730,
+          "points_13": 1,
+          "points_24": 4,
+          "away_points": 4,
+          "home_points": 1
         },
         {
-          "n": 4
+          "n": 4,
+          "machine": "UXMEN",
+          "player_1": "041f7ae9762916e85cc6370b78a58ab3b2246a22",
+          "player_3": "07f83b866165005e5bfd051b36bfb0e60c814954",
+          "player_2": "5ae9116cce4386a478f945316dadc934c87191a9",
+          "player_4": "97db83b84b74f6a510ad23ff05d6506466028053",
+          "done": true,
+          "score_1": 46580030,
+          "score_2": 147538600,
+          "score_3": 458074810,
+          "score_4": 156883420,
+          "points_1": 0.5,
+          "points_2": 1,
+          "points_3": 2.5,
+          "points_4": 1,
+          "score_13": 504654840,
+          "score_24": 304422020,
+          "points_13": 3,
+          "points_24": 2,
+          "away_points": 2,
+          "home_points": 3,
+          "photos": [
+            {
+              "uploaded_by": "5ae9116cce4386a478f945316dadc934c87191a9",
+              "url": "/pics/feb46cfdfa44ffa3f926727d5616fdd1a388ff00",
+              "rot": 0,
+              "scale": 1,
+              "dx": 0,
+              "dy": 0
+            }
+          ]
         }
-      ]
+      ],
+      "done": true,
+      "right_confirmed": {
+        "by": "Maureen Hendrix",
+        "at": 1770101453869
+      },
+      "left_confirmed": {
+        "by": "Tim Uomoto",
+        "at": 1770103098044
+      }
     }
   ],
   "players": []
