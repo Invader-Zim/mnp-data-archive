@@ -6,22 +6,22 @@
   "round": 4,
   "create_at": 1770652172101,
   "date": "02/09/2026",
-  "state": "playing",
-  "state_at": 1770704216618,
+  "state": "complete",
+  "state_at": 1770789329238,
   "venue": {
     "key": "KRA",
     "name": "Kraken",
     "machines": [
-      "SternPark",
-      "Firepower",
-      "Harlem",
-      "Godzilla",
-      "BlackRose",
-      "Ghost",
-      "MB",
-      "FH",
+      "AFM",
       "Blackout",
-      "AFM"
+      "FH",
+      "MB",
+      "Ghost",
+      "BlackRose",
+      "Godzilla",
+      "Harlem",
+      "Firepower",
+      "SternPark"
     ]
   },
   "away": {
@@ -81,6 +81,13 @@
         "IPR": 4
       },
       {
+        "key": "998294960f7691f175c9d35e02d4951d6b56771e",
+        "name": "Ash Frantz",
+        "sub": true,
+        "IPR": 3,
+        "num_played": 3
+      },
+      {
         "key": "ab31decb795e0c811a8fb179be95b19ef56d2772",
         "name": "Mickey Nussbaumer",
         "sub": false,
@@ -93,13 +100,6 @@
         "sub": false,
         "num_played": 3,
         "IPR": 1
-      },
-      {
-        "key": "998294960f7691f175c9d35e02d4951d6b56771e",
-        "name": "Ash Frantz",
-        "sub": true,
-        "IPR": 3,
-        "num_played": 3
       },
       {
         "key": "c5db4f1058e0f071eced534c4bc0b22619751867",
@@ -147,6 +147,13 @@
         "IPR": 2
       },
       {
+        "key": "18a7951e94dab6e3eff9fda1bedf543d5c7b33b6",
+        "name": "Keith Spencer WA",
+        "sub": true,
+        "IPR": 2,
+        "num_played": 3
+      },
+      {
         "key": "d13c492b59a1cdabb55a21e892ec6249893ee886",
         "name": "Rebekah Macneil",
         "sub": false,
@@ -166,13 +173,6 @@
         "sub": false,
         "num_played": 3,
         "IPR": 1
-      },
-      {
-        "key": "18a7951e94dab6e3eff9fda1bedf543d5c7b33b6",
-        "name": "Keith Spencer WA",
-        "sub": true,
-        "IPR": 2,
-        "num_played": 3
       },
       {
         "key": "0d2ee1e38596de71a5c042b73bcb77bd78a1a595",
@@ -901,6 +901,10 @@
       "left_confirmed": {
         "by": "Daniel Mays",
         "at": 1770705604150
+      },
+      "right_confirmed": {
+        "by": "Michael Ulmen",
+        "at": 1770789329238
       }
     }
   ],

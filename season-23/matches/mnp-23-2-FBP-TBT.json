@@ -6,8 +6,8 @@
   "round": 4,
   "create_at": 1770652172109,
   "date": "02/09/2026",
-  "state": "playing",
-  "state_at": 1770706285685,
+  "state": "complete",
+  "state_at": 1770875026205,
   "venue": {
     "key": "T4B",
     "name": "4Bs Tavern",
@@ -43,13 +43,6 @@
     ],
     "lineup": [
       {
-        "key": "b489783f1441ed0167af8bc810d2e847c5fedf03",
-        "name": "Brian Reinhard",
-        "sub": false,
-        "num_played": 3,
-        "IPR": 5
-      },
-      {
         "key": "e87b4abbe57fe08760403f50d91667d9e183e963",
         "name": "Billy Musselman",
         "sub": true,
@@ -57,22 +50,15 @@
         "num_played": 3
       },
       {
-        "key": "1a56f4a41c8657c7cb1c61ba1749a1c3a632ae7f",
-        "name": "Los Rangel",
+        "key": "b489783f1441ed0167af8bc810d2e847c5fedf03",
+        "name": "Brian Reinhard",
         "sub": false,
         "num_played": 3,
-        "IPR": 4
+        "IPR": 5
       },
       {
         "key": "fea17fec4dcdb018687a567a5418a7bddab171e4",
         "name": "Clay Shelton",
-        "sub": false,
-        "num_played": 3,
-        "IPR": 3
-      },
-      {
-        "key": "1636be8aa55383627d43f5d7bcd64cab7b12ef86",
-        "name": "Melanie Meyer WA",
         "sub": false,
         "num_played": 3,
         "IPR": 3
@@ -92,6 +78,13 @@
         "num_played": 3
       },
       {
+        "key": "1a56f4a41c8657c7cb1c61ba1749a1c3a632ae7f",
+        "name": "Los Rangel",
+        "sub": false,
+        "num_played": 3,
+        "IPR": 4
+      },
+      {
         "key": "2cc5619d6c994a8f9531a2cacd3b1aff23b5b782",
         "name": "Lui Rangel",
         "sub": false,
@@ -104,6 +97,13 @@
         "sub": false,
         "num_played": 3,
         "IPR": 1
+      },
+      {
+        "key": "1636be8aa55383627d43f5d7bcd64cab7b12ef86",
+        "name": "Melanie Meyer WA",
+        "sub": false,
+        "num_played": 3,
+        "IPR": 3
       },
       {
         "key": "0e72a479c87122841c01b3923fbf0702fe2beadb",
@@ -134,11 +134,25 @@
     ],
     "lineup": [
       {
-        "key": "781000842155729dfdae3f951d53dd6e94c97bdd",
-        "name": "David Chernicoff",
+        "key": "ad4c7d7283f1007253b2ce6809e591c4e9b175ea",
+        "name": "Adam Smith",
         "sub": false,
         "num_played": 3,
-        "IPR": 6
+        "IPR": 1
+      },
+      {
+        "key": "b39d51cde084fceb88e9f397509f244163b161a3",
+        "name": "Alex Singleterry",
+        "sub": false,
+        "num_played": 3,
+        "IPR": 4
+      },
+      {
+        "key": "227f787380ce0ab47de30d7d0d0c6c674a07c621",
+        "name": "Andy Bernard",
+        "sub": false,
+        "num_played": 3,
+        "IPR": 2
       },
       {
         "key": "7c763840d930f6e27ab5a692d62134847b9cbe18",
@@ -148,11 +162,25 @@
         "IPR": 5
       },
       {
-        "key": "b39d51cde084fceb88e9f397509f244163b161a3",
-        "name": "Alex Singleterry",
+        "key": "869faa5f43a310f31235c5c080cd5327938a5c63",
+        "name": "Dan Doherty",
         "sub": false,
         "num_played": 3,
-        "IPR": 4
+        "IPR": 1
+      },
+      {
+        "key": "781000842155729dfdae3f951d53dd6e94c97bdd",
+        "name": "David Chernicoff",
+        "sub": false,
+        "num_played": 3,
+        "IPR": 6
+      },
+      {
+        "key": "eb3ae0c2d363ffcc2fb94ad4ced49310a467ea87",
+        "name": "Dina Robinson",
+        "sub": false,
+        "num_played": 3,
+        "IPR": 1
       },
       {
         "key": "c1f743b5d73716ecd7980e7fddea19920d6241ca",
@@ -167,34 +195,6 @@
         "sub": false,
         "num_played": 3,
         "IPR": 3
-      },
-      {
-        "key": "227f787380ce0ab47de30d7d0d0c6c674a07c621",
-        "name": "Andy Bernard",
-        "sub": false,
-        "num_played": 3,
-        "IPR": 2
-      },
-      {
-        "key": "ad4c7d7283f1007253b2ce6809e591c4e9b175ea",
-        "name": "Adam Smith",
-        "sub": false,
-        "num_played": 3,
-        "IPR": 1
-      },
-      {
-        "key": "869faa5f43a310f31235c5c080cd5327938a5c63",
-        "name": "Dan Doherty",
-        "sub": false,
-        "num_played": 3,
-        "IPR": 1
-      },
-      {
-        "key": "eb3ae0c2d363ffcc2fb94ad4ced49310a467ea87",
-        "name": "Dina Robinson",
-        "sub": false,
-        "num_played": 3,
-        "IPR": 1
       },
       {
         "key": "452c387a65b74fcc88e79069f4a582e731941371",
@@ -793,7 +793,7 @@
               "dy": -174
             }
           ],
-          "score_1": 51143710,
+          "score_1": 5114710,
           "score_2": 639380,
           "score_3": 6934520,
           "score_4": 1072640,
@@ -802,7 +802,7 @@
           "points_2": 0,
           "points_3": 2.5,
           "points_4": 0,
-          "score_13": 58078230,
+          "score_13": 12049230,
           "score_24": 1712020,
           "points_13": 5,
           "points_24": 0,
@@ -843,11 +843,7 @@
           "home_points": 5
         }
       ],
-      "done": true,
-      "left_confirmed": {
-        "by": "Campbell Hancock",
-        "at": 1770707974770
-      }
+      "done": true
     }
   ],
   "players": []
